@@ -3802,3 +3802,65 @@ Script Stack (0 frames):
 [2022.12.23-16.44.48:534][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.23-16.44.48:536][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
 [2022.12.23-16.44.48:583][291]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.12.23-16.45.40:230][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2022.12.23-16.45.40:231][923]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/EAHCBN229IT8APJO305AH504BFF8A541EF338649D37996F08234AC.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2022.12.23-16.45.40:243][923]AssetCheck: New page: Asset Save: BP_Rifle_C_1
+[2022.12.23-16.45.40:243][923]LogContentValidation: Display: Validating BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2022.12.23-16.45.43:282][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.12.23-16.45.43:306][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Rifle" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.12.23-16.45.43:319][218]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2022.12.23-16.45.43:320][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_Rifle594D13A44955A0772412CAB0CE0F02CD.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.12.23-16.45.43:321][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Arms_PhysicsAsset" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Arms_PhysicsAsset.uasset" SILENT=true
+[2022.12.23-16.45.43:323][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Arms_PhysicsAsset
+[2022.12.23-16.45.43:323][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Arms_PhysicsAssetEC7DCFEA4E393C7DA89507B91AC10263.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Arms_PhysicsAsset.uasset'
+[2022.12.23-16.45.43:323][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/T_Man_Body_Albedo" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Albedo.uasset" SILENT=true
+[2022.12.23-16.45.44:707][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/T_Man_Body_Albedo
+[2022.12.23-16.45.44:707][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/T_Man_Body_AlbedoC343E3274A45980D8D173EB5A4F61E9B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Albedo.uasset'
+[2022.12.23-16.45.44:708][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/T_Man_Body_Ao" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Ao.uasset" SILENT=true
+[2022.12.23-16.45.45:399][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/T_Man_Body_Ao
+[2022.12.23-16.45.45:399][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/T_Man_Body_Ao17C026854CB665B99484D49177A9A2D8.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Ao.uasset'
+[2022.12.23-16.45.45:400][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/T_Man_Body_Metallic" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Metallic.uasset" SILENT=true
+[2022.12.23-16.45.46:178][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/T_Man_Body_Metallic
+[2022.12.23-16.45.46:178][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/T_Man_Body_Metallic07136557432BA6987E4723A8DEE8D5B7.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Metallic.uasset'
+[2022.12.23-16.45.46:179][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/T_Man_Body_Normals" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Normals.uasset" SILENT=true
+[2022.12.23-16.45.47:774][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/T_Man_Body_Normals
+[2022.12.23-16.45.47:774][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/T_Man_Body_Normals3221C2214977B37BDF638CB7573D9C9B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/T_Man_Body_Normals.uasset'
+[2022.12.23-16.45.47:782][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/AimFire" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimFire.uasset" SILENT=true
+[2022.12.23-16.45.47:791][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/AimFire
+[2022.12.23-16.45.47:791][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/AimFireDF93E69740BA8B855323E88321D6FBD6.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimFire.uasset'
+[2022.12.23-16.45.47:797][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/AimPose" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimPose.uasset" SILENT=true
+[2022.12.23-16.45.47:803][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/AimPose
+[2022.12.23-16.45.47:803][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/AimPoseFAF2C4534138464BDAE4A284A3A1C3CD.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimPose.uasset'
+[2022.12.23-16.45.47:810][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/AimtoIdle" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimtoIdle.uasset" SILENT=true
+[2022.12.23-16.45.47:817][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/AimtoIdle
+[2022.12.23-16.45.47:817][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/AimtoIdleB71AD5D14A2F6FA8515C6D89273B6838.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimtoIdle.uasset'
+[2022.12.23-16.45.47:824][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/Idle" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Idle.uasset" SILENT=true
+[2022.12.23-16.45.47:848][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/Idle
+[2022.12.23-16.45.47:848][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Idle0FF77D984FB7C03F77F7C0B27E6F26C8.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Idle.uasset'
+[2022.12.23-16.45.47:855][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/IdleFIre" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleFIre.uasset" SILENT=true
+[2022.12.23-16.45.47:863][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/IdleFIre
+[2022.12.23-16.45.47:863][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/IdleFIre38641F7C4CC5F9B6C5F0979964D1298A.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleFIre.uasset'
+[2022.12.23-16.45.47:870][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/IdleToAim" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleToAim.uasset" SILENT=true
+[2022.12.23-16.45.47:877][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/IdleToAim
+[2022.12.23-16.45.47:877][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/IdleToAim4F81ABAB4FFC45C0AAC7BEB17A2FA002.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleToAim.uasset'
+[2022.12.23-16.45.47:884][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/Reload" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Reload.uasset" SILENT=true
+[2022.12.23-16.45.47:897][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/Reload
+[2022.12.23-16.45.47:897][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/ReloadAFFB2D7C48537AF202D2D188E5A56013.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Reload.uasset'
+[2022.12.23-16.45.47:904][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/run" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/run.uasset" SILENT=true
+[2022.12.23-16.45.47:912][218]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/run
+[2022.12.23-16.45.47:912][218]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/run43BB7F1D41CB24829CA26BAA7D85274A.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/run.uasset'
+[2022.12.23-16.45.47:922][218]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/IdleToAim.IdleToAim
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/IdleFIre.IdleFIre
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/Idle.Idle
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/AimtoIdle.AimtoIdle
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/AimPose.AimPose
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/AimFire.AimFire
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating PhysicsAsset /Game/_Main/Character/Arms_PhysicsAsset.Arms_PhysicsAsset
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating Texture2D /Game/_Main/Character/T_Man_Body_Normals.T_Man_Body_Normals
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating Texture2D /Game/_Main/Character/T_Man_Body_Metallic.T_Man_Body_Metallic
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating Texture2D /Game/_Main/Character/T_Man_Body_Ao.T_Man_Body_Ao
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating Texture2D /Game/_Main/Character/T_Man_Body_Albedo.T_Man_Body_Albedo
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/Reload.Reload
+[2022.12.23-16.45.47:922][218]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Character/Animations/run.run
