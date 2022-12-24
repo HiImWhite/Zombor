@@ -1786,3 +1786,506 @@ Are you sure?
 [2022.12.24-13.21.30:016][431]LogViewport: Scene viewport resized to 2038x909, mode Windowed.
 [2022.12.24-13.21.30:104][436]LogViewport: Scene viewport resized to 2038x911, mode Windowed.
 [2022.12.24-13.21.30:156][438]LogViewport: Scene viewport resized to 2038x918, mode Windowed.
+[2022.12.24-13.47.55:682][188]LogDerivedDataCache: C:/Users/wojta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.063 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.24-13.53.16:477][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.24-13.53.16:485][164]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.24-13.53.16:494][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.24-13.53.18:991][465]LogContentBrowser: Attempting asset rename: NewFolder -> Zombie
+[2022.12.24-13.53.18:991][465]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.24-13.53.38:747][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombiegirl.fbx)
+[2022.12.24-13.53.38:791][765]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombiegirl.fbx
+[2022.12.24-13.53.38:849][765]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-13.53.50:360][765]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.24-13.53.50:379][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node ZombieGirl_Body : The relative matrices do not match
+[2022.12.24-13.53.50:379][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node ZombieGirl_Pants : The relative matrices do not match
+[2022.12.24-13.53.50:379][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node ZombieGirl_Top : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node ZombieGirl_Body : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node ZombieGirl_Pants : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node ZombieGirl_Top : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node ZombieGirl_Body : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node ZombieGirl_Pants : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node ZombieGirl_Top : The relative matrices do not match
+[2022.12.24-13.53.50:380][765]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.12.24-13.53.50:381][765]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - ZombieGirl_Body
+[2022.12.24-13.53.50:381][765]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.12.24-13.53.50:385][765]LogMaterial: Display: Material /Game/_Main/Zombie/ZombieGirl_Material.ZombieGirl_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.24-13.53.50:388][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 307EADBFA4C7C59AAE3FCC56428036C3C185FAC3), compiling. 
+[2022.12.24-13.53.50:584][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.50:826][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.50:979][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FC62F63AAA4504D08AE9C0F3C0E8B1A7912AA769), compiling. 
+[2022.12.24-13.53.50:982][765]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2022.12.24-13.53.51:136][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.51:136][765]LogMaterial: Display: Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_1.ZombieGirl_Material_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.24-13.53.51:141][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CEFD061A69C6C7C8E7BEF4587F8E24A4DFCA50F6), compiling. 
+[2022.12.24-13.53.51:197][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse_ncl1_1.zombie_diffuse_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.51:445][765]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2022.12.24-13.53.51:573][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.51:827][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 31D6BCC0C314B5BBE368AEE2A3F2F1A2CA0DC1F4), compiling. 
+[2022.12.24-13.53.51:830][765]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2022.12.24-13.53.51:856][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.51:856][765]LogMaterial: Display: Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_2.ZombieGirl_Material_ncl1_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.24-13.53.51:860][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B5031DE1A0194C5A09B17F32CF07F58C116117C1), compiling. 
+[2022.12.24-13.53.51:914][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.52:232][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse_ncl1_1.zombie_diffuse_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.52:307][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.52:325][765]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2022.12.24-13.53.52:782][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.52:782][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.52:936][765]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F1B0EB8F2DCF5C5744983E7DF3993CFEE765308), compiling. 
+[2022.12.24-13.53.52:939][765]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2022.12.24-13.53.52:976][765]LogFbx: Warning: Bones digested - 61  Depth of hierarchy - 12
+[2022.12.24-13.53.53:163][765]LogTexture: Display: Building textures: /Game/_Main/Zombie/zombie_diffuse_ncl1_1.zombie_diffuse_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.12.24-13.53.53:163][765]LogSkeletalMesh: Section 0: Material=0, 5408 triangles
+[2022.12.24-13.53.53:163][765]LogSkeletalMesh: Section 1: Material=1, 886 triangles
+[2022.12.24-13.53.53:163][765]LogSkeletalMesh: Section 2: Material=2, 1154 triangles
+[2022.12.24-13.53.53:213][765]LogSkeletalMesh: Building Skeletal Mesh zombiegirl...
+[2022.12.24-13.53.53:213][765]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (zombiegirl) ...
+[2022.12.24-13.53.53:362][765]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/_Main/Zombie/zombiegirl.zombiegirl
+[2022.12.24-13.53.53:362][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.53.53:402][765]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-13.53.53:402][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(5) Head
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-13.53.53:411][765]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(5) Head
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-13.53.53:412][765]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-13.53.53:413][765]LogFbx: Parsing AnimStack Take 001
+[2022.12.24-13.53.53:413][765]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-13.53.53:442][765]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.12.24-13.53.53:442][765]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_2' 
+[2022.12.24-13.53.53:442][765]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zombie_diffuse' was renamed 'zombie_diffuse_ncl1_1' 
+[2022.12.24-13.53.53:442][765]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.24-13.53.53:442][765]FBXImport: Error: Animation length 0,958 is not compatible with import frame-rate 30 fps (sub frame 0,75), animation has to be frame-border aligned. 
+[2022.12.24-13.53.53:465][765]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/zombiegirl_Anim_mixamo_com.zombiegirl_Anim_mixamo_com
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: ================================================
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Total job queries 362, among them cache hits 0 (0.00%)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Tracking 276 distinct input hashes that result in 206 distinct outputs (74.64%)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Shaders Compiled: 362
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Jobs assigned 286, completed 276 (96.50%)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Average time worker was idle: 148.78 s
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Time job spent in pending queue: average 32.08 s, longest 68.14 s
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 8.13 s
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Job life time (pending + execution): average 38.17 s, max 68.45
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.07 s
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 7.33 jobs/batch
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Average processing rate: 3.63 jobs/sec
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Effective parallelization: 1.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.73 sec, max 0.79 sec, min 0.68 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    6 times, average 0.68 sec, max 1.05 sec, min 0.51 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   17 times, average 0.65 sec, max 1.17 sec, min 0.47 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    6 times, average 0.65 sec, max 0.92 sec, min 0.52 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.06% of total time (compiled   17 times, average 0.65 sec, max 1.17 sec, min 0.47 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.40% of total time (compiled   17 times, average 0.60 sec, max 0.92 sec, min 0.43 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.76% of total time (compiled   17 times, average 0.55 sec, max 0.87 sec, min 0.41 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.48% of total time (compiled   17 times, average 0.52 sec, max 0.63 sec, min 0.42 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.72% of total time (compiled   17 times, average 0.46 sec, max 0.72 sec, min 0.31 sec)
+[2022.12.24-13.53.58:060][114]LogShaderCompilers: Display: ================================================
+[2022.12.24-13.54.06:576][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.24-13.54.06:579][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2022.12.24-13.54.06:579][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Main/Zombie/zombiegirl] ([1] browsable assets)...
+[2022.12.24-13.54.06:586][289]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Main/Zombie/zombiegirl.zombiegirl]
+[2022.12.24-13.54.06:586][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/zombiegirl]
+[2022.12.24-13.54.06:586][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.24-13.54.06:610][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/zombiegirl_Auto1
+[2022.12.24-13.54.06:610][289]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_Auto13EB4DB2B41EFE91144BE0DA5DB0D427C.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_Auto1.uasset'
+[2022.12.24-13.54.06:610][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Main/Zombie/zombiegirl_Skeleton] ([1] browsable assets)...
+[2022.12.24-13.54.06:617][289]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/_Main/Zombie/zombiegirl_Skeleton.zombiegirl_Skeleton]
+[2022.12.24-13.54.06:617][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/zombiegirl_Skeleton]
+[2022.12.24-13.54.06:619][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/zombiegirl_Skeleton_Auto1
+[2022.12.24-13.54.06:619][289]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_Skeleton_Auto1DE337BB140041B41D54C73B7F356C6FA.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_Skeleton_Auto1.uasset'
+[2022.12.24-13.54.06:620][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Main/Zombie/zombiegirl_PhysicsAsset] ([1] browsable assets)...
+[2022.12.24-13.54.06:626][289]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset]
+[2022.12.24-13.54.06:626][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/zombiegirl_PhysicsAsset]
+[2022.12.24-13.54.06:630][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/zombiegirl_PhysicsAsset_Auto1
+[2022.12.24-13.54.06:630][289]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_PhysicsAsset_Auto12F58A36449175FE15AA2C89140FEB31B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_PhysicsAsset_Auto1.uasset'
+[2022.12.24-13.54.06:631][289]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.12.24-13.54.17:049][333]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-13.54.17:062][333]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-13.55.21:429][645]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Main/Zombie/zombiegirl.zombiegirl
+[2022.12.24-13.55.21:431][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.55.21:449][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.24-13.55.21:717][645]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.12.24-13.55.29:455][219]LogSlate: Window 'zombiegirl' being destroyed
+[2022.12.24-13.55.29:461][219]LogSlate: Window 'zombiegirl' being destroyed
+[2022.12.24-13.55.29:461][219]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-13.55.29:461][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-13.55.31:116][346]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Main/Zombie/ZombieGirl_Material.ZombieGirl_Material
+[2022.12.24-13.55.31:119][346]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 06C0451D8137B4F9DE2F0F7CBA1940B7E8D94FDD), compiling. 
+[2022.12.24-13.55.31:174][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.55.31:260][346]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 79028786A09F326A1D3463376ADA59E0B06C401B), compiling. 
+[2022.12.24-13.55.31:266][346]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 752B207AA8AEB7326E714D9666FF13EC73CC85EE), compiling. 
+[2022.12.24-13.55.31:269][346]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8FB182D19774A62EF8B8D1142F463ADEB2E5F23), compiling. 
+[2022.12.24-13.55.31:271][346]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4CE64A8BB5AB7E510BB9265EAB03D77272FCB19F), compiling. 
+[2022.12.24-13.55.31:272][346]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BBED4DA81F9072D58B3A4B05B0A01801A655F4D6), compiling. 
+[2022.12.24-13.55.31:274][346]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BF41399BEEC6752D9D59AA1C6D29EAC56DCDE91), compiling. 
+[2022.12.24-13.55.31:294][346]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.55.31:294][346]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.55.31:294][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.31:294][346]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.55.31:303][346]LogViewport: Scene viewport resized to 325x384, mode Windowed.
+[2022.12.24-13.55.31:392][348]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.55.31:392][348]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.55.31:392][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.31:392][348]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.55.47:582][112]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 95990D1EE684C59537045468A9EB124360D6E446), compiling. 
+[2022.12.24-13.55.47:593][112]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.55.47:593][112]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.55.47:593][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.47:593][112]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.55.47:635][114]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.55.47:635][114]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.55.47:635][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.47:635][114]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.55.48:803][194]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 8B0903F62B63CB3E119F2C7052D4F375DA17605A), compiling. 
+[2022.12.24-13.55.48:808][194]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 1C5DA2F01685E10B7621E1DA321BEC9D018E317D), compiling. 
+[2022.12.24-13.55.48:811][194]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 505A91EBA492F56F0CDEFD871AC9163131F06249), compiling. 
+[2022.12.24-13.55.48:816][194]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.55.48:816][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.55.48:816][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.48:816][194]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.55.49:627][249]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.24-13.55.49:627][249]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.55.49:627][249]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.55.49:627][249]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.55.52:666][293]LogMaterialEditor: Saving and Compiling material ZombieGirl_Material
+[2022.12.24-13.55.55:260][293]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C5209FF4D1B6FEE22513BBD21C8F6A18D0944B2F), compiling. 
+[2022.12.24-13.55.55:270][293]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 816EB0AD8A2E27D8FB1BFD4E9A135039FBE86F00), compiling. 
+[2022.12.24-13.55.55:310][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.24-13.55.56:166][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.12.24-13.56.09:513][293]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.12.24-13.56.09:513][293]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11032ms] waiting for h/w. InstanceID=1
+[2022.12.24-13.56.09:513][293]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049625s
+[2022.12.24-13.56.15:012][293]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002008s (5.547129s overbudget)
+[2022.12.24-13.56.15:035][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/ZombieGirl_Material" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material.uasset" SILENT=true
+[2022.12.24-13.56.15:037][293]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/ZombieGirl_Material
+[2022.12.24-13.56.15:037][293]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/ZombieGirl_Material4279C9F24067518EEC2B2D8B6448A57E.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material.uasset'
+[2022.12.24-13.56.15:050][293]AssetCheck: New page: Asset Save: ZombieGirl_Material
+[2022.12.24-13.56.15:050][293]LogContentValidation: Display: Validating Material /Game/_Main/Zombie/ZombieGirl_Material.ZombieGirl_Material
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Base pass shader: 133 instructions
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Base pass vertex shader: 173 instructions
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.15:051][293]MaterialEditorStats: Shader Count: 32
+[2022.12.24-13.56.15:062][294]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14244
+[2022.12.24-13.56.15:073][294]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{887469d0-2e80-47df-83b2-1ef67723fe7f}, Name=VG270U P (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=13.07
+[2022.12.24-13.56.15:073][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.24-13.56.15:088][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.24-13.56.24:815][323]LogSlate: Window 'ZombieGirl_Material' being destroyed
+[2022.12.24-13.56.24:830][323]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-13.56.24:830][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-13.56.25:964][421]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_1.ZombieGirl_Material_ncl1_1
+[2022.12.24-13.56.25:969][421]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A257FF8EA67255D6A6BBAD77FCD36BFDFB7BFC7E), compiling. 
+[2022.12.24-13.56.26:033][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.56.26:112][421]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B53F3A1C885E4FCB739DEDE832F48B93F46C2C6), compiling. 
+[2022.12.24-13.56.26:116][421]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 78251E05AD1494A729B73F096CEEA916698B2C01), compiling. 
+[2022.12.24-13.56.26:118][421]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FA3C4A10E5A429BE7871A9737A49B933D4DE790E), compiling. 
+[2022.12.24-13.56.26:120][421]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BE79FCBDD7B43E811F6AF9E3B74D1D13CFBC561B), compiling. 
+[2022.12.24-13.56.26:122][421]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1638B46987F705AFCD14F8B78A39836A83BF45E1), compiling. 
+[2022.12.24-13.56.26:123][421]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D1C027E6B306770F64293C335729CD628F215DA5), compiling. 
+[2022.12.24-13.56.26:142][421]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.26:142][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.26:142][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.26:142][421]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.26:151][421]LogViewport: Scene viewport resized to 325x384, mode Windowed.
+[2022.12.24-13.56.26:218][423]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.56.26:218][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.26:218][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.26:218][423]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.27:922][538]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CF5CFC1151A669D3AB4D141FE85D20D0667A4746), compiling. 
+[2022.12.24-13.56.27:932][538]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.27:932][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.27:932][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.27:932][538]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.27:969][540]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.56.27:969][540]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.27:969][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.27:969][540]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.28:950][608]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B5B1F53E86D2B3C88BA6647A29418ECC3CDCC8F7), compiling. 
+[2022.12.24-13.56.28:955][608]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DD4F117DE902E3E2C247D8C4321AFE8E847A3562), compiling. 
+[2022.12.24-13.56.28:959][608]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 85DB7E92B41BAE2F7A000C70D1D570AAEDF4506F), compiling. 
+[2022.12.24-13.56.28:963][608]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.28:963][608]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.28:963][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.28:963][608]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.29:745][663]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.24-13.56.29:745][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.29:745][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.29:745][663]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.30:984][750]LogMaterialEditor: Saving and Compiling material ZombieGirl_Material_ncl1_1
+[2022.12.24-13.56.31:378][750]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 81CDBFCA85CEF92A1BD18735D3C0DA54B1CFBA2E), compiling. 
+[2022.12.24-13.56.31:388][750]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FFEFB384F83587A2E9940115AD343537B72B7FB), compiling. 
+[2022.12.24-13.56.31:426][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.12.24-13.56.32:201][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.12.24-13.56.34:314][750]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.12.24-13.56.40:240][750]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004007s (5.962443s overbudget)
+[2022.12.24-13.56.40:254][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/ZombieGirl_Material_ncl1_1" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material_ncl1_1.uasset" SILENT=true
+[2022.12.24-13.56.40:256][750]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/ZombieGirl_Material_ncl1_1
+[2022.12.24-13.56.40:256][750]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/ZombieGirl_Material_ncl1_10FDB73854D043C3F17ADB2B8FD0F4F4C.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material_ncl1_1.uasset'
+[2022.12.24-13.56.40:269][750]AssetCheck: New page: Asset Save: ZombieGirl_Material_ncl1_1
+[2022.12.24-13.56.40:269][750]LogContentValidation: Display: Validating Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_1.ZombieGirl_Material_ncl1_1
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Base pass shader: 133 instructions
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Base pass vertex shader: 173 instructions
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.40:270][750]MaterialEditorStats: Shader Count: 32
+[2022.12.24-13.56.48:402][901]LogSlate: Window 'ZombieGirl_Material_ncl1_1' being destroyed
+[2022.12.24-13.56.48:418][901]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-13.56.48:418][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-13.56.49:585][  2]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_2.ZombieGirl_Material_ncl1_2
+[2022.12.24-13.56.49:591][  2]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DA35FF0FD0D6767A0240AA54AB9649F34C613C9), compiling. 
+[2022.12.24-13.56.49:653][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.56.49:723][  2]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B43E90B1FB72C539EFBAFB3C267E140CC8EC131), compiling. 
+[2022.12.24-13.56.49:727][  2]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 575A8CA030775A727E804AA2701D576C06CCE141), compiling. 
+[2022.12.24-13.56.49:730][  2]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 138B127B00285BFAFFA133EC04CF3BCCA037158B), compiling. 
+[2022.12.24-13.56.49:731][  2]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9296E2E4FCE690835D6D738B286C5949ADBFFA20), compiling. 
+[2022.12.24-13.56.49:733][  2]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AA3F3F6FB7D98DACD188C692B69333288590DF5), compiling. 
+[2022.12.24-13.56.49:734][  2]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DD18BA4EED8E0ED85201C1FFDC7A23B916497340), compiling. 
+[2022.12.24-13.56.49:753][  2]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.49:753][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.49:753][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.49:753][  2]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.49:761][  2]LogViewport: Scene viewport resized to 325x384, mode Windowed.
+[2022.12.24-13.56.49:826][  4]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.56.49:826][  4]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.49:826][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.49:826][  4]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.51:420][113]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E62BF7AE6B0D04235785F998A6BD3A01E86D09A4), compiling. 
+[2022.12.24-13.56.51:430][113]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.51:430][113]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.51:430][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.51:430][113]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.51:469][115]MaterialEditorStats: Texture samplers: 4/16
+[2022.12.24-13.56.51:469][115]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.12.24-13.56.51:469][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.51:469][115]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.52:722][201]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ED734178A51263D7F00F82403B6C9AD880529A05), compiling. 
+[2022.12.24-13.56.52:727][201]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BA734A30CA6AD88D5D72FE56FFC1D359344C1E7D), compiling. 
+[2022.12.24-13.56.52:731][201]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 93FE499B606338FED3696B7A19DE29CE1FA4396F), compiling. 
+[2022.12.24-13.56.52:735][201]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-13.56.52:735][201]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.52:735][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.52:735][201]MaterialEditorStats: Shader Count: 0
+[2022.12.24-13.56.53:526][254]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.24-13.56.53:526][254]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.56.53:526][254]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.56.53:526][254]MaterialEditorStats: Shader Count: 2
+[2022.12.24-13.56.54:666][334]LogMaterialEditor: Saving and Compiling material ZombieGirl_Material_ncl1_2
+[2022.12.24-13.56.55:070][334]LogMaterial: Display: Missing cached shadermap for Preview:ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 55EC0972833C6263A2BFE82FB9F277DEFF0A9FF7), compiling. 
+[2022.12.24-13.56.55:081][334]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4185EF28AED7A186E9D572D9EDA7E1915986F20E), compiling. 
+[2022.12.24-13.56.55:127][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.24-13.56.55:897][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.12.24-13.56.58:017][334]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.12.24-13.57.03:894][334]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004007s (5.909950s overbudget)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: ================================================
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Total job queries 701, among them cache hits 109 (15.55%)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Tracking 405 distinct input hashes that result in 230 distinct outputs (56.79%)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: RAM used: 0.57 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Shaders Compiled: 508
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Jobs assigned 405, completed 405 (100.00%)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Average time worker was idle: 37.05 s
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Time job spent in pending queue: average 23.92 s, longest 68.14 s
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Job execution time: average 3.79 s, max 11.62 s
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Job life time (pending + execution): average 27.70 s, max 68.45
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 125.86 s
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Jobs were issued in 158 batches (only local compilation was used), average 2.56 jobs/batch
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Average processing rate: 3.22 jobs/sec
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    6 times, average 0.68 sec, max 1.05 sec, min 0.51 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   33 times, average 0.66 sec, max 1.17 sec, min 0.47 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    6 times, average 0.65 sec, max 0.92 sec, min 0.52 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    6 times, average 0.63 sec, max 0.88 sec, min 0.51 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.62 sec, max 0.86 sec, min 0.52 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.47% of total time (compiled   33 times, average 0.66 sec, max 1.17 sec, min 0.47 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.95% of total time (compiled   31 times, average 0.53 sec, max 0.69 sec, min 0.42 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.55% of total time (compiled   29 times, average 0.54 sec, max 0.87 sec, min 0.41 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.40% of total time (compiled   23 times, average 0.58 sec, max 0.92 sec, min 0.43 sec)
+[2022.12.24-13.57.03:899][334]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.27% of total time (compiled   23 times, average 0.47 sec, max 0.72 sec, min 0.31 sec)
+[2022.12.24-13.57.03:900][334]LogShaderCompilers: Display: ================================================
+[2022.12.24-13.57.03:909][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/ZombieGirl_Material_ncl1_2" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material_ncl1_2.uasset" SILENT=true
+[2022.12.24-13.57.03:911][334]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/ZombieGirl_Material_ncl1_2
+[2022.12.24-13.57.03:911][334]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/ZombieGirl_Material_ncl1_204AE248B4CB382FFE0DD328B15D7E7B7.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/ZombieGirl_Material_ncl1_2.uasset'
+[2022.12.24-13.57.03:921][334]AssetCheck: New page: Asset Save: ZombieGirl_Material_ncl1_2
+[2022.12.24-13.57.03:921][334]LogContentValidation: Display: Validating Material /Game/_Main/Zombie/ZombieGirl_Material_ncl1_2.ZombieGirl_Material_ncl1_2
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Base pass shader: 133 instructions
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Base pass vertex shader: 173 instructions
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Texture samplers: 6/16
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.24-13.57.03:923][334]MaterialEditorStats: Shader Count: 32
+[2022.12.24-13.57.06:618][538]LogSlate: Window 'ZombieGirl_Material_ncl1_2' being destroyed
+[2022.12.24-13.57.06:634][538]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-13.57.06:635][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-13.57.15:191][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.12.24-13.57.15:243][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/AimFire_Montage1" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimFire_Montage1.uasset" SILENT=true
+[2022.12.24-13.57.15:245][888]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/AimFire_Montage1
+[2022.12.24-13.57.15:245][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/AimFire_Montage195096E5448596457A29CEC9D057D10C2.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/AimFire_Montage1.uasset'
+[2022.12.24-13.57.15:252][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/IdleFIre_Montage1" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleFIre_Montage1.uasset" SILENT=true
+[2022.12.24-13.57.15:254][888]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/IdleFIre_Montage1
+[2022.12.24-13.57.15:254][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/IdleFIre_Montage135CCA1CB4A9E8C87615A6D9C1450F160.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/IdleFIre_Montage1.uasset'
+[2022.12.24-13.57.15:255][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl.uasset" SILENT=true
+[2022.12.24-13.57.15:278][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl
+[2022.12.24-13.57.15:278][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl5A36364E49C92C2218272CACF26433F8.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl.uasset'
+[2022.12.24-13.57.15:280][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombie_diffuse" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_diffuse.uasset" SILENT=true
+[2022.12.24-13.57.15:624][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombie_diffuse
+[2022.12.24-13.57.15:624][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_diffuseF5A8F9C14D9D31068EF745A246E3CB00.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_diffuse.uasset'
+[2022.12.24-13.57.15:626][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombie_specular" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_specular.uasset" SILENT=true
+[2022.12.24-13.57.15:881][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombie_specular
+[2022.12.24-13.57.15:882][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_specularE8067E6D420676BCDC9C11A47AD74ADE.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_specular.uasset'
+[2022.12.24-13.57.15:883][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombie_normal" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_normal.uasset" SILENT=true
+[2022.12.24-13.57.16:263][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombie_normal
+[2022.12.24-13.57.16:263][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_normal0648BC864E7350035E36D1A7AC1DF111.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_normal.uasset'
+[2022.12.24-13.57.16:266][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombie_diffuse_ncl1_1" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_diffuse_ncl1_1.uasset" SILENT=true
+[2022.12.24-13.57.16:611][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombie_diffuse_ncl1_1
+[2022.12.24-13.57.16:611][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_diffuse_ncl1_1266A95F9410ED4742249DA9FC9E66121.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombie_diffuse_ncl1_1.uasset'
+[2022.12.24-13.57.16:611][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_Skeleton" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_Skeleton.uasset" SILENT=true
+[2022.12.24-13.57.16:613][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_Skeleton
+[2022.12.24-13.57.16:613][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_Skeleton35BF27D2485207C6626BDB88C65D3F1F.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_Skeleton.uasset'
+[2022.12.24-13.57.16:614][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_PhysicsAsset" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset" SILENT=true
+[2022.12.24-13.57.16:618][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_PhysicsAsset
+[2022.12.24-13.57.16:618][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_PhysicsAssetBBB123BC482E33FE2172D0BC1E383190.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset'
+[2022.12.24-13.57.16:625][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_Anim_mixamo_com" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_Anim_mixamo_com.uasset" SILENT=true
+[2022.12.24-13.57.16:631][888]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_Anim_mixamo_com
+[2022.12.24-13.57.16:631][888]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombiegirl_Anim_mixamo_comFCC374F1455C8934BDB65CA40E9E95A1.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/zombiegirl_Anim_mixamo_com.uasset'
+[2022.12.24-13.57.16:640][888]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Character/Animations/IdleFIre_Montage1.IdleFIre_Montage1
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/zombiegirl_Anim_mixamo_com.zombiegirl_Anim_mixamo_com
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Skeleton /Game/_Main/Zombie/zombiegirl_Skeleton.zombiegirl_Skeleton
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Texture2D /Game/_Main/Zombie/zombie_diffuse_ncl1_1.zombie_diffuse_ncl1_1
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Texture2D /Game/_Main/Zombie/zombie_normal.zombie_normal
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Texture2D /Game/_Main/Zombie/zombie_specular.zombie_specular
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Character/Animations/AimFire_Montage1.AimFire_Montage1
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Texture2D /Game/_Main/Zombie/zombie_diffuse.zombie_diffuse
+[2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating SkeletalMesh /Game/_Main/Zombie/zombiegirl.zombiegirl
