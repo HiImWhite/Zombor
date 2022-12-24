@@ -2289,3 +2289,1052 @@ Are you sure?
 [2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Character/Animations/AimFire_Montage1.AimFire_Montage1
 [2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating Texture2D /Game/_Main/Zombie/zombie_diffuse.zombie_diffuse
 [2022.12.24-13.57.16:641][888]LogContentValidation: Display: Validating SkeletalMesh /Game/_Main/Zombie/zombiegirl.zombiegirl
+[2022.12.24-13.58.32:571][249]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_Main/Zombie/zombiegirl.zombiegirl
+[2022.12.24-13.58.32:572][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-13.58.32:592][249]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.24-13.58.32:838][249]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.12.24-13.58.53:062][765]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.24-13.58.53:073][765]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.24-13.58.53:088][766]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.24-13.58.56:016][995]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.12.24-13.58.56:017][995]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.24-13.59.06:894][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie attack.fbx)
+[2022.12.24-13.59.06:902][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie attack.fbx
+[2022.12.24-13.59.06:921][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-13.59.19:964][322]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-13.59.19:977][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-13.59.19:978][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-13.59.19:979][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-13.59.22:427][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_attack.zombie_attack
+[2022.12.24-13.59.22:427][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie biting.fbx)
+[2022.12.24-13.59.22:436][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie biting.fbx
+[2022.12.24-13.59.22:460][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-13.59.22:462][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-13.59.22:465][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.01:750][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_biting.zombie_biting
+[2022.12.24-14.00.01:788][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Crawl.fbx)
+[2022.12.24-14.00.01:825][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Crawl.fbx
+[2022.12.24-14.00.01:889][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.01:894][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.01:895][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.01:896][322]LogFbx: Parsing AnimStack Take 001
+[2022.12.24-14.00.05:591][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.16:506][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/Zombie_Crawl_Take_001.Zombie_Crawl_Take_001
+[2022.12.24-14.00.35:811][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/Zombie_Crawl_mixamo_com.Zombie_Crawl_mixamo_com
+[2022.12.24-14.00.35:811][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.12.24-14.00.35:811][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_2' 
+[2022.12.24-14.00.35:811][322]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zombie_diffuse' was renamed 'zombie_diffuse_ncl1_1' 
+[2022.12.24-14.00.35:851][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie death.fbx)
+[2022.12.24-14.00.35:859][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie death.fbx
+[2022.12.24-14.00.35:879][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.35:880][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.35:881][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.35:882][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.36:699][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie dying.fbx)
+[2022.12.24-14.00.36:708][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie dying.fbx
+[2022.12.24-14.00.36:728][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.36:730][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.36:732][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.39:748][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie idle.fbx)
+[2022.12.24-14.00.39:756][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie idle.fbx
+[2022.12.24-14.00.39:778][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.39:779][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.39:780][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.39:781][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.40:198][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie neck bite.fbx)
+[2022.12.24-14.00.40:206][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie neck bite.fbx
+[2022.12.24-14.00.40:227][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.40:228][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.40:229][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.40:231][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.43:051][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Reaction Hit.fbx)
+[2022.12.24-14.00.43:088][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Reaction Hit.fbx
+[2022.12.24-14.00.43:150][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.43:155][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.43:156][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.43:157][322]LogFbx: Parsing AnimStack Take 001
+[2022.12.24-14.00.43:157][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.43:816][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.12.24-14.00.43:816][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_2' 
+[2022.12.24-14.00.43:816][322]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zombie_diffuse' was renamed 'zombie_diffuse_ncl1_1' 
+[2022.12.24-14.00.43:816][322]FBXImport: Error: Animation length 0,958 is not compatible with import frame-rate 90 fps (sub frame 0,25), animation has to be frame-border aligned. 
+[2022.12.24-14.00.43:854][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Running.fbx)
+[2022.12.24-14.00.43:892][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Running.fbx
+[2022.12.24-14.00.43:950][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.43:954][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.43:955][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.43:956][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.43:956][322]LogFbx: Parsing AnimStack Take 001
+[2022.12.24-14.00.43:956][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.44:053][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.12.24-14.00.44:053][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_2' 
+[2022.12.24-14.00.44:053][322]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zombie_diffuse' was renamed 'zombie_diffuse_ncl1_1' 
+[2022.12.24-14.00.44:053][322]FBXImport: Error: Animation length 0,958 is not compatible with import frame-rate 30 fps (sub frame 0,75), animation has to be frame-border aligned. 
+[2022.12.24-14.00.44:067][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie scream.fbx)
+[2022.12.24-14.00.44:075][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\zombie scream.fbx
+[2022.12.24-14.00.44:096][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.44:097][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.44:098][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.44:099][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.45:657][322]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Walk.fbx)
+[2022.12.24-14.00.45:691][322]LogFbx: Loading FBX Scene from C:\Users\wojta\Downloads\FPS Zombie\Scary Zombie Pack\Zombie Walk.fbx
+[2022.12.24-14.00.45:748][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.45:752][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(0) Hips
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(1) Spine
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(2) Spine1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(3) Spine2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(4) Neck
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(5) Head
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(8) LeftArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(10) LeftHand
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(11) LeftHandMiddle1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(12) LeftHandMiddle2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(13) LeftHandMiddle3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(14) LeftHandMiddle4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(19) LeftHandThumb1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(20) LeftHandThumb2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(21) LeftHandThumb3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(22) LeftHandThumb4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(31) RightShoulder
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(32) RightArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(33) RightForeArm
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(34) RightHand
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(43) RightHandRing1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(44) RightHandRing2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(45) RightHandRing3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(46) RightHandRing4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(47) RightHandPinky1
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(48) RightHandPinky2
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(49) RightHandPinky3
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(50) RightHandPinky4
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(51) LeftUpLeg
+[2022.12.24-14.00.45:753][322]LogFbx: SortedLinks :(52) LeftLeg
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(53) LeftFoot
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(54) LeftToeBase
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(55) LeftToe_End
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(56) RightUpLeg
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(57) RightLeg
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(58) RightFoot
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(59) RightToeBase
+[2022.12.24-14.00.45:754][322]LogFbx: SortedLinks :(60) RightToe_End
+[2022.12.24-14.00.45:754][322]LogFbx: Parsing AnimStack Take 001
+[2022.12.24-14.00.45:754][322]LogFbx: Parsing AnimStack mixamo.com
+[2022.12.24-14.00.46:144][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.12.24-14.00.46:144][322]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_2' 
+[2022.12.24-14.00.46:144][322]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'zombie_diffuse' was renamed 'zombie_diffuse_ncl1_1' 
+[2022.12.24-14.00.46:144][322]FBXImport: Error: Animation length 0,958 is not compatible with import frame-rate 30 fps (sub frame 0,75), animation has to be frame-border aligned. 
+[2022.12.24-14.00.46:575][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_death.zombie_death
+[2022.12.24-14.00.47:237][327]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_dying.zombie_dying
+[2022.12.24-14.00.48:586][331]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_neck_bite.zombie_neck_bite
+[2022.12.24-14.00.48:918][332]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_idle.zombie_idle
+[2022.12.24-14.00.49:921][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/zombie_scream.zombie_scream
+[2022.12.24-14.00.49:921][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/Zombie_Running_mixamo_com.Zombie_Running_mixamo_com
+[2022.12.24-14.00.49:921][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com.Zombie_Reaction_Hit_mixamo_com
+[2022.12.24-14.00.50:928][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/_Main/Zombie/Animations/Zombie_Walk_mixamo_com.Zombie_Walk_mixamo_com
+[2022.12.24-14.00.57:841][817]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-14.00.57:857][817]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-14.01.12:275][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.12.24-14.01.12:320][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_attack" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_attack.uasset" SILENT=true
+[2022.12.24-14.01.12:411][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_attack
+[2022.12.24-14.01.12:411][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_attack061575724FE36619254A20A1792321FD.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_attack.uasset'
+[2022.12.24-14.01.12:418][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_biting" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_biting.uasset" SILENT=true
+[2022.12.24-14.01.13:875][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_biting
+[2022.12.24-14.01.13:875][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_bitingE40E867C4C36E0B5ED7C1C89B65DCB61.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_biting.uasset'
+[2022.12.24-14.01.13:891][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Running_mixamo_com
+[2022.12.24-14.01.13:891][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Zombie_Running_mixamo_comC959F1954FED65716CA2578DAD7648E4.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Running_mixamo_com.uasset'
+[2022.12.24-14.01.13:897][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/Zombie_Crawl_Take_001" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Crawl_Take_001.uasset" SILENT=true
+[2022.12.24-14.01.14:104][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Crawl_Take_001
+[2022.12.24-14.01.14:104][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Zombie_Crawl_Take_00154C7CD724343E58EC1B167A3A1D643C6.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Crawl_Take_001.uasset'
+[2022.12.24-14.01.15:190][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Crawl_mixamo_com
+[2022.12.24-14.01.15:190][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Zombie_Crawl_mixamo_com0F0C1F0A49A367854AB1FB95406EA8D7.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Crawl_mixamo_com.uasset'
+[2022.12.24-14.01.15:197][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_death" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_death.uasset" SILENT=true
+[2022.12.24-14.01.15:231][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_death
+[2022.12.24-14.01.15:231][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_death7CA3C97C4D3F700BFB33D6BEC1A46555.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_death.uasset'
+[2022.12.24-14.01.15:238][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_dying" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_dying.uasset" SILENT=true
+[2022.12.24-14.01.15:348][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_dying
+[2022.12.24-14.01.15:348][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_dying7E897DD742054F08C5DF6AAC3F496E6F.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_dying.uasset'
+[2022.12.24-14.01.15:355][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_idle" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_idle.uasset" SILENT=true
+[2022.12.24-14.01.15:374][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_idle
+[2022.12.24-14.01.15:374][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_idle22711D8A41B2A757F9068899C08B1358.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_idle.uasset'
+[2022.12.24-14.01.15:381][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_neck_bite" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_neck_bite.uasset" SILENT=true
+[2022.12.24-14.01.15:482][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_neck_bite
+[2022.12.24-14.01.15:483][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_neck_bite92D4764845B6B59D79F795821C914AAE.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_neck_bite.uasset'
+[2022.12.24-14.01.15:490][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/Zombie_Walk_mixamo_com" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Walk_mixamo_com.uasset" SILENT=true
+[2022.12.24-14.01.15:509][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Walk_mixamo_com
+[2022.12.24-14.01.15:509][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Zombie_Walk_mixamo_comF966C9DE45CA3ED6EEEBC5B027B2720B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Walk_mixamo_com.uasset'
+[2022.12.24-14.01.15:540][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com
+[2022.12.24-14.01.15:540][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Zombie_Reaction_Hit_mixamo_com7DB2A233471980F6C962ABA064551367.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com.uasset'
+[2022.12.24-14.01.15:547][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/zombie_scream" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_scream.uasset" SILENT=true
+[2022.12.24-14.01.15:607][137]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/zombie_scream
+[2022.12.24-14.01.15:607][137]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/zombie_scream7C217D734DC5BEA9EDAC039B1BFE9ACF.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/Animations/zombie_scream.uasset'
+[2022.12.24-14.01.15:618][137]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/Zombie_Crawl_mixamo_com.Zombie_Crawl_mixamo_com
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/Zombie_Crawl_Take_001.Zombie_Crawl_Take_001
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_biting.zombie_biting
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_attack.zombie_attack
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/Zombie_Walk_mixamo_com.Zombie_Walk_mixamo_com
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_scream.zombie_scream
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/Zombie_Running_mixamo_com.Zombie_Running_mixamo_com
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com.Zombie_Reaction_Hit_mixamo_com
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_neck_bite.zombie_neck_bite
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_idle.zombie_idle
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_dying.zombie_dying
+[2022.12.24-14.01.15:618][137]LogContentValidation: Display: Validating AnimSequence /Game/_Main/Zombie/Animations/zombie_death.zombie_death
