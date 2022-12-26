@@ -1210,12 +1210,3 @@ Script Stack (0 frames):
 [2022.12.26-22.55.06:815][353]LogOutputDevice: Error: [Callstack] 0x00007ffe885f7614 KERNEL32.DLL!UnknownFunction []
 [2022.12.26-22.55.06:815][353]LogOutputDevice: Error: [Callstack] 0x00007ffe8a4c26a1 ntdll.dll!UnknownFunction []
 [2022.12.26-22.55.06:815][353]LogOutputDevice: Error: 
-[2022.12.26-22.55.06:819][353]LogStats:                SubmitErrorReport -  0.000 s
-[2022.12.26-22.55.08:060][353]LogStats:                    SendNewReport -  1.242 s
-[2022.12.26-22.55.08:060][353]LogStats:             FDebug::EnsureFailed -  1.289 s
-[2022.12.26-22.55.08:065][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.12.26-22.55.08:090][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.12.26-22.55.08:091][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
-[2022.12.26-22.55.08:092][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
-[2022.12.26-22.55.08:098][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
-[2022.12.26-22.55.08:133][354]LogPlayLevel: Display: Destroying online subsystem :Context_22
