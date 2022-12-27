@@ -1249,3 +1249,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.27-12.33.38:356][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2022.12.27-12.33.38:362][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
 [2022.12.27-12.33.38:393][815]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.12.27-12.36.16:713][356]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.27-12.36.16:793][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.27-12.36.17:492][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.27-12.36.17:507][425]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.27-12.36.17:508][425]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_ZombieF1A0B66C4DE6506BD8DFD4952B0980E0.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.27-12.36.17:520][425]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.27-12.36.17:520][425]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.27-12.36.39:760][ 10]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.27-12.36.39:837][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.27-12.36.40:346][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.27-12.36.40:361][ 56]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.27-12.36.40:362][ 56]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_ZombieC2F5B4E94FEC5B07FA6156BF76891FA8.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.27-12.36.40:374][ 56]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.27-12.36.40:374][ 56]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.27-12.38.05:813][101]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.27-12.38.05:890][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.12.27-12.38.06:917][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.27-12.38.06:933][209]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.27-12.38.06:933][209]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_Zombie2EB2709A49EED9348221AEAB658F1A5E.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.27-12.38.06:946][209]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.27-12.38.06:946][209]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.27-12.38.24:197][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.27-12.38.24:219][831]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0I/6KRG4MD1O1PCPXMYGVI4C9
+[2022.12.27-12.38.24:220][831]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/6KRG4MD1O1PCPXMYGVI4C98B07EB7A49838EA3807A6DBDC07B7CCF.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0I/6KRG4MD1O1PCPXMYGVI4C9.uasset'
+[2022.12.27-12.38.24:232][831]AssetCheck: New page: Asset Save: BP_Zombie_C_UAID_18C04D76349C2E5601_1359759071
+[2022.12.27-12.38.24:232][831]LogContentValidation: Display: Validating BP_Zombie_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Zombie_C_UAID_18C04D76349C2E5601_1359759071
