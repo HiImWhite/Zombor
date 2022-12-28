@@ -2533,3 +2533,266 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.28-14.18.38:819][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2022.12.28-14.18.38:824][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2022.12.28-14.18.38:850][665]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.28-14.20.03:102][891]Cmd: MAP LOAD FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.28-14.20.03:102][891]LightingResults: New page: Lighting Build
+[2022.12.28-14.20.03:102][891]LoadErrors: New page: Loading map: GothicTemple.umap
+[2022.12.28-14.20.03:127][891]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.20.03:127][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.20.03:166][891]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.20.03:166][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.20.03:166][891]MapCheck: New page: Map Check
+[2022.12.28-14.20.03:166][891]LightingResults: New page: Lighting Build
+[2022.12.28-14.20.03:228][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.20.03:234][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.28-14.20.03:885][891]LogAudio: Display: Audio Device (ID: 1) registered with world 'GothicTemple'.
+[2022.12.28-14.20.03:885][891]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.20.03:885][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.20.03:886][891]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.20.04:727][891]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.28-14.20.04:840][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.28-14.20.04:850][891]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.28-14.20.04:851][891]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,272ms to complete.
+[2022.12.28-14.20.04:851][891]LogFileHelpers: Loading map 'GothicTemple' took 1.748
+[2022.12.28-14.20.17:863][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.28-14.20.17:863][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.21.08:824][204]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.28-14.21.08:837][204]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.28-14.21.08:850][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.28-14.21.11:065][327]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2022.12.28-14.21.11:066][327]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.28-14.21.15:557][455]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Sounds\attack1.wav)
+[2022.12.28-14.21.15:563][455]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave attack1...
+[2022.12.28-14.21.15:564][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/_Main/Sounds/attack1.attack1 will be modified from 40 to 40.
+[2022.12.28-14.21.15:572][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 142912 while cooking SoundWave /Game/_Main/Sounds/attack1.attack1.
+[2022.12.28-14.21.15:572][455]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Sounds/attack1.attack1: 262144
+[2022.12.28-14.21.15:578][455]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Sounds\attack2.wav)
+[2022.12.28-14.21.15:578][455]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave attack2...
+[2022.12.28-14.21.15:579][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/_Main/Sounds/attack2.attack2 will be modified from 40 to 40.
+[2022.12.28-14.21.15:585][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 115280 while cooking SoundWave /Game/_Main/Sounds/attack2.attack2.
+[2022.12.28-14.21.15:585][455]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Sounds/attack2.attack2: 262144
+[2022.12.28-14.21.15:590][455]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Sounds\attack3.wav)
+[2022.12.28-14.21.15:591][455]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave attack3...
+[2022.12.28-14.21.15:591][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/_Main/Sounds/attack3.attack3 will be modified from 40 to 40.
+[2022.12.28-14.21.15:603][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 225820 while cooking SoundWave /Game/_Main/Sounds/attack3.attack3.
+[2022.12.28-14.21.15:603][455]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Sounds/attack3.attack3: 262144
+[2022.12.28-14.21.15:609][455]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Sounds\attack4.wav)
+[2022.12.28-14.21.15:610][455]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave attack4...
+[2022.12.28-14.21.15:611][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/_Main/Sounds/attack4.attack4 will be modified from 40 to 40.
+[2022.12.28-14.21.15:628][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 322796 while cooking SoundWave /Game/_Main/Sounds/attack4.attack4.
+[2022.12.28-14.21.15:628][455]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Sounds/attack4.attack4: 262144
+[2022.12.28-14.21.15:650][455]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wojta\Downloads\FPS Zombie\Sounds\hoarde.wav)
+[2022.12.28-14.21.15:669][455]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave hoarde...
+[2022.12.28-14.21.15:670][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/_Main/Sounds/hoarde.hoarde will be modified from 40 to 40.
+[2022.12.28-14.21.16:096][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 7375292 while cooking SoundWave /Game/_Main/Sounds/hoarde.hoarde.
+[2022.12.28-14.21.16:098][455]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Sounds/hoarde.hoarde: 262144
+[2022.12.28-14.22.03:527][929]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.12.28-14.22.03:534][929]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.12.28-14.22.03:544][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2022.12.28-14.22.07:306][158]LogContentBrowser: Attempting asset rename: NewSoundCue -> AttackCue
+[2022.12.28-14.22.07:307][158]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.12.28-14.22.08:963][269]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/_Main/Sounds/AttackCue.AttackCue
+[2022.12.28-14.22.40:217][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Sounds/AttackCue" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Sounds/AttackCue.uasset" SILENT=true
+[2022.12.28-14.22.40:219][613]LogSavePackage: Moving output files for package: /Game/_Main/Sounds/AttackCue
+[2022.12.28-14.22.40:219][613]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/AttackCue57EE7119413754D1FB790CA764C454B9.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Sounds/AttackCue.uasset'
+[2022.12.28-14.22.40:232][613]AssetCheck: New page: Asset Save: AttackCue
+[2022.12.28-14.22.40:232][613]LogContentValidation: Display: Validating SoundCue /Game/_Main/Sounds/AttackCue.AttackCue
+[2022.12.28-14.24.31:624][ 11]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.28-14.24.31:746][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.28-14.24.32:407][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.28-14.24.32:429][ 59]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.28-14.24.32:430][ 59]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_Zombie006C2EA54725C53ED27914B431CC2041.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.28-14.24.32:445][ 59]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.28-14.24.32:445][ 59]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.28-14.24.35:059][250]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.28-14.24.35:066][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.24.35:066][250]PIE: New page: PIE session: GothicTemple (28 gru 2022, 16:24:35)
+[2022.12.28-14.24.35:066][250]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.24.35:893][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.827011s)
+[2022.12.28-14.24.35:893][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/GothicTemple.GothicTemple to /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple (0.827128s)
+[2022.12.28-14.24.35:893][250]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.24.35:893][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.24.35:893][250]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.24.35:894][250]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2022.12.28-14.24.35:961][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.28-14.24.35:963][250]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.24.35:963][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.24.35:963][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.24.35:964][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.24.35:964][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.24.35:964][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.24.35:966][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.24.35:987][250]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.24.35:987][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.24.35:987][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.24.35:987][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.24.35:988][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.12.28-14.24.35:988][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.12.28-14.24.35:989][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.12.28-14.24.35:989][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.12.28-14.24.35:989][250]LogInit: FAudioDevice initialized.
+[2022.12.28-14.24.35:989][250]LogAudio: Display: Audio Device (ID: 14) registered with world 'GothicTemple'.
+[2022.12.28-14.24.36:018][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.24.36:018][250]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.24.36:049][250]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.24.36
+[2022.12.28-14.24.36:050][250]LogWorld: Bringing up level for play took: 0.031549
+[2022.12.28-14.24.36:052][250]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.12.28-14.24.36:061][250]PIE: Server logged in
+[2022.12.28-14.24.36:062][250]PIE: Play in editor total start time 0,997 seconds.
+[2022.12.28-14.24.36:110][250]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.28-14.24.36:157][251]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099304 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-14.24.56:575][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.24.56:575][618]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.24.56:576][618]LogSlate: Window 'Zombor Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.28-14.24.56:580][618]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.24.56:585][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.24.56:599][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.24.56:609][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.24.56:680][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.24.56:680][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.28-14.24.56:681][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.12.28-14.24.56:697][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.28-14.24.56:751][619]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.12.28-14.25.28:021][750]LogEditorTransaction: Undo Add Component
+[2022.12.28-14.25.47:345][487]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.12.28-14.26.32:091][408]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.28-14.26.32:218][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.28-14.26.32:802][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.28-14.26.32:825][449]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.28-14.26.32:825][449]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_Zombie3C555868451A1212CD7C4594F80AF989.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.28-14.26.32:840][449]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.28-14.26.32:840][449]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.28-14.26.49:924][159]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.28-14.26.50:043][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.28-14.26.50:706][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.28-14.26.50:729][207]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.28-14.26.50:729][207]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_ZombieE2B21486404D8A52BA8F8A97D2A75444.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.28-14.26.50:743][207]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.28-14.26.50:743][207]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.28-14.26.59:016][967]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.28-14.26.59:023][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.26.59:023][967]PIE: New page: PIE session: GothicTemple (28 gru 2022, 16:26:59)
+[2022.12.28-14.26.59:023][967]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.26.59:826][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.802835s)
+[2022.12.28-14.26.59:826][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/GothicTemple.GothicTemple to /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple (0.802922s)
+[2022.12.28-14.26.59:826][967]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.26.59:827][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.26.59:827][967]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.26.59:827][967]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.12.28-14.26.59:902][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.28-14.26.59:905][967]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.26.59:905][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.26.59:905][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.26.59:906][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.26.59:906][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.26.59:906][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.26.59:908][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.26.59:930][967]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.26.59:931][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.26.59:931][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.26.59:931][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.26.59:931][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.12.28-14.26.59:932][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.12.28-14.26.59:933][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.12.28-14.26.59:933][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.12.28-14.26.59:933][967]LogInit: FAudioDevice initialized.
+[2022.12.28-14.26.59:933][967]LogAudio: Display: Audio Device (ID: 15) registered with world 'GothicTemple'.
+[2022.12.28-14.26.59:951][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.26.59:951][967]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.26.59:983][967]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.26.59
+[2022.12.28-14.26.59:983][967]LogWorld: Bringing up level for play took: 0.031833
+[2022.12.28-14.26.59:986][967]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2022.12.28-14.26.59:996][967]PIE: Server logged in
+[2022.12.28-14.26.59:997][967]PIE: Play in editor total start time 0,973 seconds.
+[2022.12.28-14.27.00:031][967]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.28-14.27.00:058][968]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099304 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-14.27.07:892][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.27.07:892][502]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.27.07:892][502]LogSlate: Window 'Zombor Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.28-14.27.07:898][502]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.27.07:903][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.27.07:914][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.27.07:924][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.27.07:997][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.27.07:997][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.28-14.27.07:999][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.12.28-14.27.08:016][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.28-14.27.08:059][503]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.12.28-14.27.55:894][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.28-14.27.55:918][197]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.12.28-14.27.55:919][197]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_Zombie05792DD147ACD3DCA5AD8FABD1D265C7.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.12.28-14.27.55:956][197]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.28-14.27.55:956][197]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.12.28-14.28.48:160][911]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-14.28.48:317][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.28-14.28.48:986][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-14.28.49:042][947]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-14.28.49:042][947]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterF3F83385495460FDA190ACA2E9FEE02B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-14.28.49:057][947]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-14.28.49:057][947]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-14.28.50:395][ 45]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.28-14.28.50:404][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.28.50:404][ 45]PIE: New page: PIE session: GothicTemple (28 gru 2022, 16:28:50)
+[2022.12.28-14.28.50:404][ 45]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.28.51:204][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.799315s)
+[2022.12.28-14.28.51:204][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/GothicTemple.GothicTemple to /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple (0.799395s)
+[2022.12.28-14.28.51:204][ 45]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.28.51:204][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.28.51:205][ 45]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.28.51:205][ 45]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2022.12.28-14.28.51:276][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.28-14.28.51:277][ 45]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.28.51:278][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.28.51:278][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.28.51:278][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.28.51:278][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.28.51:278][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.28.51:280][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.28.51:301][ 45]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.28.51:302][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.28.51:302][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.28.51:302][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.28.51:302][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.28-14.28.51:302][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.28-14.28.51:304][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.28-14.28.51:304][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.28-14.28.51:304][ 45]LogInit: FAudioDevice initialized.
+[2022.12.28-14.28.51:304][ 45]LogAudio: Display: Audio Device (ID: 16) registered with world 'GothicTemple'.
+[2022.12.28-14.28.51:320][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.28.51:321][ 45]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.28.51:353][ 45]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.28.51
+[2022.12.28-14.28.51:354][ 45]LogWorld: Bringing up level for play took: 0.032768
+[2022.12.28-14.28.51:356][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2022.12.28-14.28.51:365][ 45]PIE: Server logged in
+[2022.12.28-14.28.51:366][ 45]PIE: Play in editor total start time 0,961 seconds.
+[2022.12.28-14.28.51:411][ 45]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.28-14.28.51:436][ 46]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099304 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-14.28.57:169][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.28.57:169][437]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.28.57:170][437]LogSlate: Window 'Zombor Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.28-14.28.57:175][437]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.28.57:180][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.28.57:189][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.28.57:199][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.28.57:271][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.28.57:271][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.28-14.28.57:273][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.28-14.28.57:289][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.28-14.28.57:330][438]LogPlayLevel: Display: Destroying online subsystem :Context_37
