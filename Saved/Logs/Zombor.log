@@ -10689,3 +10689,186 @@ Script Stack (0 frames):
 [2022.12.28-00.46.50:784][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2022.12.28-00.46.50:817][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2022.12.28-00.46.55:561][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.28-00.54.05:791][396]Cmd: EDIT COPY
+[2022.12.28-00.54.06:586][443]Cmd: EDIT PASTE
+[2022.12.28-00.54.06:746][444]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.08:782][547]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.08:878][549]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.12:663][726]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.12:881][733]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.14:408][815]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.14:908][841]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.15:139][850]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.18:722][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:005][ 65]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:266][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:361][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:418][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:508][ 96]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.19:779][111]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.20:788][181]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.20:937][191]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.21:225][210]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.21:731][245]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.21:917][257]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.22:216][278]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.22:615][306]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.54.23:034][331]LogNavigationDataBuild: Navigation data generation finished in /Game/GothicTemple/Levels/GothicTemple.
+[2022.12.28-00.55.15:261][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.28-00.55.15:322][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.28-00.55.16:770][658]LogSavePackage: Moving output files for package: /Game/GothicTemple/Levels/GothicTemple
+[2022.12.28-00.55.16:771][658]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/GothicTemple40F2FCC142EE6CF989A9B08AF235EB31.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/GothicTemple/Levels/GothicTemple.umap'
+[2022.12.28-00.55.16:792][658]LogFileHelpers: No new changes to save!
+[2022.12.28-00.55.16:792][658]LogFileHelpers: Saving map 'GothicTemple' took 1.506
+[2022.12.28-00.55.16:809][658]AssetCheck: New page: Asset Save: GothicTemple
+[2022.12.28-00.55.16:809][658]LogContentValidation: Display: Validating World /Game/GothicTemple/Levels/GothicTemple.GothicTemple
+[2022.12.28-00.57.21:738][279]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-00.57.21:839][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.28-00.57.22:433][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-00.57.22:470][321]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-00.57.22:471][321]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter46F4A4C0401E4D72BCB3609BC3BD7F86.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-00.57.22:485][321]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-00.57.22:485][321]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-00.57.27:540][587]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-00.57.27:541][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-00.57.27:566][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-00.57.27:571][587]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.28-00.57.27:983][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-00.57.27:983][587]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-00.57.28:048][587]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.28-00.57.34:813][332]LogSlate: Took 0.003079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.28-00.58.15:133][760]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.28-00.58.46:289][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-00.58.46:312][406]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-00.58.46:313][406]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_W8FC0841640F05828E78043B8C0F60730.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-00.58.46:329][406]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-00.58.46:329][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-00.59.22:036][393]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-00.59.22:164][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.28-00.59.22:787][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-00.59.22:811][454]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-00.59.22:812][454]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_W4B0DA1D148428C28F465B694AF598202.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-00.59.22:827][454]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-00.59.22:827][454]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-00.59.51:437][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-00.59.51:437][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-01.00.31:245][778]LogEditorTransaction: Undo Rename Widget
+[2022.12.28-01.00.33:929][ 54]LogEditorTransaction: Undo Edit Text
+[2022.12.28-01.00.36:330][334]LogEditorTransaction: Undo Paste clipboard contents
+[2022.12.28-01.00.37:441][458]LogEditorTransaction: Undo Edit Text
+[2022.12.28-01.00.37:863][500]LogEditorTransaction: Undo Rename Widget
+[2022.12.28-01.00.38:352][549]LogEditorTransaction: Undo Rename Widget
+[2022.12.28-01.00.38:823][596]LogEditorTransaction: Undo Edit Text
+[2022.12.28-01.00.39:521][671]LogEditorTransaction: Undo Edit Specified Color
+[2022.12.28-01.02.50:452][333]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.28-01.02.57:743][167]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-01.02.57:849][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.12.28-01.02.58:457][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-01.02.58:482][215]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-01.02.58:483][215]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_WBAAA24EA4C4A038190894A86619BDA7D.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-01.02.58:497][215]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-01.02.58:497][215]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-01.04.05:222][ 54]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-01.04.05:313][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.28-01.04.06:186][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-01.04.06:213][146]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-01.04.06:214][146]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_W1B228300428F4B0C6A98D192A188C9F1.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-01.04.06:229][146]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-01.04.06:229][146]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-01.04.16:886][301]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-01.04.16:886][301]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-01.05.19:640][978]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-01.05.19:729][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.28-01.05.20:179][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-01.05.20:204][ 20]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-01.05.20:205][ 20]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_WAD359FB74ED093E5B64A5A9BDB50C065.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-01.05.20:220][ 20]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-01.05.20:220][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-01.06.51:647][746]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-01.06.51:783][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.28-01.06.52:431][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-01.06.52:468][796]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-01.06.52:469][796]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterACA1E78B4752C9F70C1A35B851A15C59.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-01.06.52:486][796]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-01.06.52:486][796]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-01.08.25:838][173]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-01.08.25:963][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.28-01.08.26:636][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-01.08.26:674][229]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-01.08.26:675][229]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter9EB78F6148DD6FDE9EB92E816ADF9209.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-01.08.26:689][229]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-01.08.26:689][229]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-01.09.07:143][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-01.09.07:150][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-01.09.07:150][567]PIE: New page: PIE session: GothicTemple (28 gru 2022, 03:09:07)
+[2022.12.28-01.09.07:177][567]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-01.09.08:029][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.851198s)
+[2022.12.28-01.09.08:029][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.851328s)
+[2022.12.28-01.09.08:029][567]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-01.09.08:029][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-01.09.08:029][567]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-01.09.08:030][567]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2022.12.28-01.09.08:082][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.28-01.09.08:087][567]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-01.09.08:087][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-01.09.08:087][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-01.09.08:088][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-01.09.08:088][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-01.09.08:088][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-01.09.08:090][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-01.09.08:113][567]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-01.09.08:114][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-01.09.08:114][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-01.09.08:114][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-01.09.08:114][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.28-01.09.08:114][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.28-01.09.08:115][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.28-01.09.08:115][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.28-01.09.08:115][567]LogInit: FAudioDevice initialized.
+[2022.12.28-01.09.08:115][567]LogAudio: Display: Audio Device (ID: 4) registered with world 'GothicTemple'.
+[2022.12.28-01.09.08:129][567]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-01.09.08:160][567]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-02.09.08
+[2022.12.28-01.09.08:161][567]LogWorld: Bringing up level for play took: 0.031636
+[2022.12.28-01.09.08:162][567]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.28-01.09.08:170][567]PIE: Server logged in
+[2022.12.28-01.09.08:171][567]PIE: Play in editor total start time 1,021 seconds.
+[2022.12.28-01.09.16:273][995]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.28-01.09.16:273][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.28-01.09.21:874][261]LogNet: Browse: /Game/GothicTemple/Levels/GothicTemple
+[2022.12.28-01.09.21:875][261]LogLoad: LoadMap: /Game/GothicTemple/Levels/GothicTemple
+[2022.12.28-01.09.21:875][261]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-01.09.21:876][261]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-01.09.21:879][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-01.09.21:932][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-01.09.21:948][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.12.28-01.09.21:956][261]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-01.09.22:791][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.835128s)
+[2022.12.28-01.09.22:791][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.835290s)
+[2022.12.28-01.09.22:792][261]LogAudio: Display: Audio Device (ID: 4) registered with world 'GothicTemple'.
+[2022.12.28-01.09.22:792][261]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-01.09.22:792][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-01.09.22:792][261]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-01.09.22:793][261]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2022.12.28-01.09.22:793][261]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-01.09.22:817][261]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-02.09.22
+[2022.12.28-01.09.22:818][261]LogWorld: Bringing up level for play took: 0.024816
+[2022.12.28-01.09.22:826][261]LogLoad: Took 0.950755 seconds to LoadMap(/Game/GothicTemple/Levels/UEDPIE_0_GothicTemple)
+[2022.12.28-01.09.25:738][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-01.09.25:738][442]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-01.09.25:739][442]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-01.09.25:743][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-01.09.25:753][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-01.09.25:764][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-01.09.25:815][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-01.09.25:815][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.28-01.09.25:817][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.28-01.09.25:820][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-01.09.25:834][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.28-01.09.25:900][443]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.28-01.12.56:874][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
