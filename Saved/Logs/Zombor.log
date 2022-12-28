@@ -1535,3 +1535,1001 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.28-13.24.20:570][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
 [2022.12.28-13.24.20:623][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2022.12.28-13.42.52:313][803]LogDerivedDataCache: C:/Users/wojta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.701 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.28-14.05.41:456][770]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.28-14.05.41:500][770]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.28-14.05.41:838][770]LogViewport: Scene viewport resized to 1905x1258, mode Windowed.
+[2022.12.28-14.06.11:399][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu.uasset" SILENT=true
+[2022.12.28-14.06.11:401][236]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu
+[2022.12.28-14.06.11:402][236]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenu9B52C2BF4E9178D54DB38889F433D9BC.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu.uasset'
+[2022.12.28-14.06.11:417][236]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.28-14.06.11:417][236]LogContentValidation: Display: Validating Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.28-14.06.16:292][677]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.28-14.06.16:292][677]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.28-14.06.16:342][677]LogViewport: Scene viewport resized to 1905x1258, mode Windowed.
+[2022.12.28-14.06.57:017][496]LogSlate: Window 'New Level' being destroyed
+[2022.12.28-14.06.57:022][496]LightingResults: New page: Lighting Build
+[2022.12.28-14.06.57:033][496]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.06.57:034][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.06.57:034][496]MapCheck: New page: Map Check
+[2022.12.28-14.06.57:034][496]LightingResults: New page: Lighting Build
+[2022.12.28-14.06.57:096][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.06.57:146][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.12.28-14.06.57:149][496]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.06.57:149][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.06.57:150][496]LogAIModule: Creating AISystem for world Untitled
+[2022.12.28-14.06.57:151][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.28-14.06.57:156][496]LoadErrors: New page: New Map
+[2022.12.28-14.07.14:522][365]LogSlate: Window 'Save Level As' being destroyed
+[2022.12.28-14.07.14:545][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.28-14.07.14:675][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.28-14.07.14:678][365]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.07.14:678][365]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenuB4BCE66B43E8C59742579BBDA74A855F.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap'
+[2022.12.28-14.07.14:692][365]LogFileHelpers: Saving map 'MainMenu' took 0.163
+[2022.12.28-14.07.14:692][365]Cmd: MAP LOAD FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.28-14.07.14:692][365]LightingResults: New page: Lighting Build
+[2022.12.28-14.07.14:692][365]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.12.28-14.07.14:693][365]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.07.14:693][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.07.14:693][365]MapCheck: New page: Map Check
+[2022.12.28-14.07.14:693][365]LightingResults: New page: Lighting Build
+[2022.12.28-14.07.14:741][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.07.14:770][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.28-14.07.14:778][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.12.28-14.07.14:778][365]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.07.14:778][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.07.14:779][365]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.28-14.07.14:779][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.28-14.07.14:829][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.28-14.07.14:838][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.28-14.07.14:838][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2022.12.28-14.07.14:838][365]LogFileHelpers: Loading map 'MainMenu' took 0.146
+[2022.12.28-14.07.14:847][365]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.28-14.07.14:847][365]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.28-14.07.43:548][927]LogSlate: Window 'Create New GameMode' being destroyed
+[2022.12.28-14.07.47:732][358]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.28-14.07.51:990][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.28-14.07.52:044][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.28-14.07.52:049][797]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.07.52:050][797]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenu7FAC6BE54A7DFD3EECBDB38DCFD8D33D.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap'
+[2022.12.28-14.07.52:073][797]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.28-14.07.52:073][797]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.28-14.08.16:057][901]LogObjectTools: Deleting 1 worlds: /Game/GothicTemple/Levels/OverviewMap.OverviewMap
+[2022.12.28-14.08.16:058][901]LogObjectTools: Currently 11 active worlds: /Game/_Main/Maps/MainMenu.MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.12.28-14.08.16:117][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.28-14.08.19:222][901]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.28-14.08.19:226][901]LogWorld: UWorld::CleanupWorld for OverviewMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.08.19:226][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.08.19:240][901]LogShaderCompilers: Display: ================================================
+[2022.12.28-14.08.19:240][901]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.28-14.08.19:240][901]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.28-14.08.19:241][901]LogShaderCompilers: Display: ================================================
+[2022.12.28-14.08.19:310][901]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.28-14.08.19:310][901]LogWorld: UWorld::CleanupWorld for OverviewMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.08.19:310][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.08.19:518][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.28-14.08.19:572][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.28-14.08.19:625][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.28-14.08.34:838][271]LogMetaData: Removing '/Game/_Main/Maps/GothicTemple.GothicTemple_C' ref from Metadata '/Game/GothicTemple/Levels/GothicTemple.PackageMetaData'
+[2022.12.28-14.08.34:838][271]LogMetaData: Removing '/Game/_Main/Maps/GothicTemple.SKEL_GothicTemple_C' ref from Metadata '/Game/GothicTemple/Levels/GothicTemple.PackageMetaData'
+[2022.12.28-14.08.34:865][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/GothicTemple_BuiltData" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple_BuiltData.uasset" SILENT=true
+[2022.12.28-14.08.37:512][271]LogSavePackage: Moving output files for package: /Game/_Main/Maps/GothicTemple_BuiltData
+[2022.12.28-14.08.37:512][271]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/GothicTemple_BuiltDataF63645CA430168E05A9D9FB6322BFD21.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple_BuiltData.uasset'
+[2022.12.28-14.08.37:513][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicTemple/Levels/GothicTemple_BuiltData" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/GothicTemple/Levels/GothicTemple_BuiltData.uasset" SILENT=true
+[2022.12.28-14.08.37:514][271]LogSavePackage: Moving output files for package: /Game/GothicTemple/Levels/GothicTemple_BuiltData
+[2022.12.28-14.08.37:514][271]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/GothicTemple_BuiltData99AFF3B94A284B1D56BA2F805D4F82A0.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/GothicTemple/Levels/GothicTemple_BuiltData.uasset'
+[2022.12.28-14.08.37:521][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.08.37:563][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/GothicTemple" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.28-14.08.37:633][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.28-14.08.38:942][271]LogSavePackage: Moving output files for package: /Game/_Main/Maps/GothicTemple
+[2022.12.28-14.08.38:942][271]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/GothicTemple263C85994FFDF0FE2DC4578CDDBFE923.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple.umap'
+[2022.12.28-14.08.38:951][271]LogFileHelpers: No new changes to save!
+[2022.12.28-14.08.38:976][271]LogFileHelpers: Saving map 'GothicTemple' took 1.457
+[2022.12.28-14.08.39:084][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.28-14.08.39:138][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.28-14.08.39:189][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.28-14.08.39:214][271]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.28-14.08.39:214][271]LogContentValidation: Display: Validating ObjectRedirector /Game/GothicTemple/Levels/GothicTemple_BuiltData.GothicTemple_BuiltData
+[2022.12.28-14.08.39:214][271]LogContentValidation: Display: Validating World /Game/_Main/Maps/GothicTemple.GothicTemple
+[2022.12.28-14.08.39:214][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Main/Maps/GothicTemple_BuiltData.GothicTemple_BuiltData
+[2022.12.28-14.08.57:487][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/AutomotiveBridgeScene/Blueprints/BP_CurvedBridge': Can't find file.
+[2022.12.28-14.08.57:488][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AutomotiveBridgeScene/Blueprints/BP_CurvedBridge'
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_bare_branch_01': Can't find file.
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_bare_branch_01'
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_a': Can't find file.
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_a'
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2': Can't find file.
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2'
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a3': Can't find file.
+[2022.12.28-14.08.57:491][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a3'
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b3': Can't find file.
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b3'
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/ProceduralNaturePack/Meshes/trees_w_roots/large_tree_w_roots_a': Can't find file.
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ProceduralNaturePack/Meshes/trees_w_roots/large_tree_w_roots_a'
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: [AssetLog] C:\Users\wojta\Documents\GitHub\Zombor\Content\_Main\Maps\Map.umap: Failed to load '/Game/VigilanteContent/Vehicles/West_SPG_M109/Damaged/SM_West_SPG_M109_Damaged': Can't find file.
+[2022.12.28-14.08.57:492][156]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VigilanteContent/Vehicles/West_SPG_M109/Damaged/SM_West_SPG_M109_Damaged'
+[2022.12.28-14.08.57:535][156]LogObjectTools: Deleting 1 worlds: /Game/_Main/Maps/Map.Map
+[2022.12.28-14.08.57:535][156]LogObjectTools: Currently 11 active worlds: /Game/_Main/Maps/MainMenu.MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.12.28-14.08.57:588][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.28-14.09.00:337][156]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.28-14.09.00:341][156]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.00:341][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.00:342][156]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.28-14.09.00:342][156]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.00:342][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.00:401][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.28-14.09.00:456][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.28-14.09.00:511][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.28-14.09.00:514][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:514][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_010': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:514][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_011': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:514][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_012': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_013': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_014': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_015': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_016': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_017': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_018': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_019': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_020': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_05': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_06': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_07': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_08': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_09': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_010': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_011': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_012': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_013': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_014': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_015': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_016': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_017': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_018': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_019': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_020': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_05': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_06': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_07': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_08': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReflectorDecal_09': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Bridge Upper': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'curbs': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedGutters': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedWallInner': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedWallOuter': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Details': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamps': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RoadwayAsphaltCurved': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RoadwayJoints': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SidewalkCurvedInner': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SidewalkCurvedOuter': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Bridge Upper': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'curbs': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedGutters': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedWallInner': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurvedWallOuter': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Details': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamps': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RoadwayAsphaltCurved': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RoadwayJoints': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SidewalkCurvedInner': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SidewalkCurvedOuter': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_010': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_011': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_012': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_013': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_014': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_015': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_016': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_017': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_018': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:515][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_019': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_020': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_05': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_06': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_07': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_08': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_09': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraingA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench1': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench2': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench3': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench4': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench5': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench6': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench7': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb100_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb101_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb102_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb103_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb104_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb105_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb106_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb24_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb25_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb26_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb27_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb28_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb29_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb30_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb31_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb32_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb33_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb34_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb35_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb36_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb39_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb41_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb47_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb48_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb49_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb50_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb52_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb53_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb54_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb55_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb56_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb57_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb58_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:516][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb59_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb60_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb61_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb62_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb63_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb64_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb65_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb66_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb67_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb68_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb69_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb70_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb71_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb72_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb73_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb74_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb75_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb76_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb77_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb78_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb79_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb80_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb81_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb82_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb83_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb84_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb85_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb86_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb87_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb88_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb89_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb90_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb91_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb92_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb93_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb94_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb95_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb96_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb97_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb98_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb99_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedInRoadBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedInWallBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedOutRoadBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedOutWallBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_Curved': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_CurvedIn': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_CurvedOut': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayAsphalt1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayAsphalt2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedInner1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedInner2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedOuter1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedOuter2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayJoint3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayJoint4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedInA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedInB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedOutA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedOutB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:517][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone222_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone223_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone224_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone225_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone226_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone227_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone228_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone229_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone230_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone231_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone232_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone233_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone234_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn13_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn14_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn15_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn16_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn17_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn24_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn25_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA13_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA14_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA15_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA16_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA17_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:518][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallB2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallC1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallC2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_1
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_010': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_011': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_012': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_013': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_014': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_015': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_016': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_017': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_018': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_019': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_020': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_05': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_06': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_07': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_08': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BridgeUpper_Reflector_09': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_01': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_02': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_03': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Lamp_04': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraightA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_alcoveWallStraingA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench1': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench2': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench3': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench4': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench5': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench6': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_ConcreteBench7': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumn4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_cornerColumnTop4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb100_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb101_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb102_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb103_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb104_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb105_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb106_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb24_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb25_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb26_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb27_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:519][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb28_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb29_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb30_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb31_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb32_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb33_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb34_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb35_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb36_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb39_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb41_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb47_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb48_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb49_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb50_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb52_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb53_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb54_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb55_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb56_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb57_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb58_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb59_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb60_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb61_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb62_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb63_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb64_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb65_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb66_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb67_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb68_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb69_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb70_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb71_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb72_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb73_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb74_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb75_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb76_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb77_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb78_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb79_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb80_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb81_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb82_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb83_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb84_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb85_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb86_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb87_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb88_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb89_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb90_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb91_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb92_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb93_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb94_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb95_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb96_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb97_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb98_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curb99_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedInRoadBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedInWallBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedOutRoadBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_curvedOutWallBlocker': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_Curved': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_CurvedIn': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_PaintedStreetLines_CurvedOut': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayAsphalt1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayAsphalt2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedInner1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedInner2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedOuter1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:520][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayGutterCurvedOuter2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayJoint3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_roadwayJoint4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedInA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedInB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedOutA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkAlcoveCurvedOutB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedA5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_sidewalkCurvedB6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCapstoneC4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone222_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone223_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone224_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone225_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone226_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone227_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone228_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone229_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone230_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone231_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone232_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone233_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone234_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightCenterstone9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn13_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn14_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn15_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn16_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn17_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn24_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn25_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightColumn9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA10_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:521][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA11_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA12_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA13_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA14_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA15_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA16_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA17_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA18_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA19_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA20_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA21_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA22_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA23_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA3_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA4_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA5_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA6_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA7_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA8_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallA9_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallB1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallB2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallC1_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.00:522][156]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_wallStraightWallC2_StaticMeshComponent0': BP_CurvedBridge_C /Game/_Main/Maps/Map.Map:PersistentLevel.BP_CurvedBridge_C_2
+[2022.12.28-14.09.02:335][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.28-14.09.04:443][342]LogSlate: Window 'Save Content' being destroyed
+[2022.12.28-14.09.04:492][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGameMode" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/Blueprints/MainMenuGameMode.uasset" SILENT=true
+[2022.12.28-14.09.04:495][342]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMenuGameMode
+[2022.12.28-14.09.04:495][342]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenuGameMode0CFA9E3841056357D68641A0D4ADDB2D.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/Blueprints/MainMenuGameMode.uasset'
+[2022.12.28-14.09.04:500][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Maps/GothicTemple.GothicTemple
+[2022.12.28-14.09.04:500][342]Cmd: MAP LOAD FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/GothicTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.28-14.09.04:501][342]LightingResults: New page: Lighting Build
+[2022.12.28-14.09.04:501][342]LoadErrors: New page: Loading map: GothicTemple.umap
+[2022.12.28-14.09.04:526][342]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.04:527][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.04:527][342]MapCheck: New page: Map Check
+[2022.12.28-14.09.04:527][342]LightingResults: New page: Lighting Build
+[2022.12.28-14.09.04:578][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.09.04:580][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.28-14.09.04:582][342]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.04:584][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.04:660][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.28-14.09.04:713][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.28-14.09.05:328][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'GothicTemple'.
+[2022.12.28-14.09.05:328][342]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.09.05:328][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.09.05:328][342]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.09.06:108][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.28-14.09.06:202][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.28-14.09.06:211][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.28-14.09.06:211][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,249ms to complete.
+[2022.12.28-14.09.06:211][342]LogFileHelpers: Loading map 'GothicTemple' took 1.711
+[2022.12.28-14.09.06:226][342]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2022.12.28-14.09.06:226][342]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMenuGameMode.MainMenuGameMode
+[2022.12.28-14.09.11:867][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-14.09.11:876][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.09.11:876][744]PIE: New page: PIE session: GothicTemple (28 gru 2022, 16:09:11)
+[2022.12.28-14.09.11:905][744]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.09.12:709][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.803967s)
+[2022.12.28-14.09.12:709][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/GothicTemple.GothicTemple to /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple (0.804077s)
+[2022.12.28-14.09.12:709][744]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.09.12:709][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.09.12:710][744]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.09.12:710][744]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2022.12.28-14.09.12:764][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.28-14.09.12:766][744]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.09.12:766][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.09.12:766][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.09.12:766][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.09.12:766][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.09.12:766][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.09.12:768][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.09.12:789][744]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.09.12:789][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.09.12:789][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.09.12:789][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.09.12:790][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.28-14.09.12:790][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.28-14.09.12:791][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.28-14.09.12:791][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.28-14.09.12:791][744]LogInit: FAudioDevice initialized.
+[2022.12.28-14.09.12:791][744]LogAudio: Display: Audio Device (ID: 11) registered with world 'GothicTemple'.
+[2022.12.28-14.09.12:806][744]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.09.12:834][744]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.09.12
+[2022.12.28-14.09.12:834][744]LogWorld: Bringing up level for play took: 0.027982
+[2022.12.28-14.09.12:836][744]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.12.28-14.09.12:843][744]PIE: Server logged in
+[2022.12.28-14.09.12:844][744]PIE: Play in editor total start time 0,968 seconds.
+[2022.12.28-14.09.17:375][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.09.17:375][ 28]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_GothicTemple
+[2022.12.28-14.09.17:376][ 28]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.17:380][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.17:394][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.09.17:404][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.17:459][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.09.17:459][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.28-14.09.17:460][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.28-14.09.17:475][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.28-14.09.17:513][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.12.28-14.09.40:882][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.28-14.09.40:913][135]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.28-14.09.40:913][135]Cmd: MAP LOAD FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.28-14.09.40:913][135]LightingResults: New page: Lighting Build
+[2022.12.28-14.09.40:913][135]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.12.28-14.09.40:924][135]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.40:924][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.40:925][135]MapCheck: New page: Map Check
+[2022.12.28-14.09.40:925][135]LightingResults: New page: Lighting Build
+[2022.12.28-14.09.40:980][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.09.40:993][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.12.28-14.09.41:000][135]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.09.41:000][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.09.41:054][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.28-14.09.41:108][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.28-14.09.41:112][135]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.12.28-14.09.41:112][135]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.09.41:113][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.09.41:113][135]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.28-14.09.41:125][135]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.28-14.09.41:178][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.28-14.09.41:187][135]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.28-14.09.41:187][135]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2022.12.28-14.09.41:187][135]LogFileHelpers: Loading map 'MainMenu' took 0.274
+[2022.12.28-14.09.50:050][742]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.28-14.09.50:074][742]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.28-14.09.50:078][742]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.28-14.09.50:094][743]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.28-14.09.54:917][254]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu_W
+[2022.12.28-14.09.54:921][254]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.28-14.09.56:582][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.28-14.09.56:582][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.09.56:588][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.09.56:984][421]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-14.09.56:984][421]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-14.10.27:593][419]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.28-14.10.27:674][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.12.28-14.10.28:181][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.28-14.10.28:184][458]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.28-14.10.28:184][458]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenu_W5AE0320B4A560698E828DA80FB2930B0.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.28-14.10.28:197][458]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.28-14.10.28:197][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.28-14.13.17:292][416]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\wojta\Downloads\GothicTempleGame.jpg)
+[2022.12.28-14.13.17:614][418]LogTexture: Display: Building textures: /Game/_Main/Widgets/GothicTempleGame.GothicTempleGame (BGRA8, 3816X2098 X1X1) (Required Memory Estimate: 152.701721 MB), EncodeSpeed: Fast
+[2022.12.28-14.13.41:866][682]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.12.28-14.13.48:369][912]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.28-14.13.48:453][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.28-14.13.49:101][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.28-14.13.49:104][965]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.28-14.13.49:104][965]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenu_W44D55D2A4FD334C393E8338E18D8E11C.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.28-14.13.49:118][965]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.28-14.13.49:118][965]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.28-14.15.02:903][169]LogSlate: Took 0.000900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.28-14.16.01:148][ 41]LogEditorTransaction: Undo Rename Widget
+[2022.12.28-14.16.46:274][288]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.28-14.16.46:360][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.28-14.16.46:901][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.28-14.16.46:906][340]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.28-14.16.46:906][340]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenu_WDA3044F04C6068FEC6AAFBB3FFB582FC.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.28-14.16.46:921][340]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.28-14.16.46:921][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.28-14.17.04:703][212]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Main/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.12.28-14.17.04:704][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.17.26:024][496]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.28-14.17.55:014][624]BlueprintLog: New page: Compile MainMenu
+[2022.12.28-14.17.55:088][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.28-14.17.55:602][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.28-14.17.55:667][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.28-14.17.55:673][672]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.17.55:673][672]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenuDE22EAF54A446A6388D9239EB824923D.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap'
+[2022.12.28-14.17.55:685][672]LogFileHelpers: Saving map 'MainMenu' took 0.083
+[2022.12.28-14.17.55:698][672]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.28-14.17.55:698][672]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.28-14.17.57:137][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.28-14.17.57:202][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.28-14.17.57:208][816]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.17.57:208][816]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainMenuB3D0C2524126A99A49875FAD566C9891.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Maps/MainMenu.umap'
+[2022.12.28-14.17.57:231][816]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.28-14.17.57:231][816]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.28-14.17.58:081][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-14.17.58:087][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.17.58:087][902]PIE: New page: PIE session: MainMenu (28 gru 2022, 16:17:58)
+[2022.12.28-14.17.58:123][902]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.17.58:124][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2022.12.28-14.17.58:124][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/MainMenu.MainMenu to /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu (0.001322s)
+[2022.12.28-14.17.58:124][902]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.17.58:125][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.17.58:125][902]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.28-14.17.58:125][902]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2022.12.28-14.17.58:190][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.28-14.17.58:191][902]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.17.58:191][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.17.58:191][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.17.58:191][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.17.58:191][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.17.58:191][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.17.58:194][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.17.58:215][902]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.17.58:215][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.17.58:215][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.17.58:215][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.17.58:216][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.12.28-14.17.58:216][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.12.28-14.17.58:217][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.12.28-14.17.58:217][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.12.28-14.17.58:217][902]LogInit: FAudioDevice initialized.
+[2022.12.28-14.17.58:217][902]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu'.
+[2022.12.28-14.17.58:227][902]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.12.28-14.17.58:228][902]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.12.28-15.17.58
+[2022.12.28-14.17.58:228][902]LogWorld: Bringing up level for play took: 0.000538
+[2022.12.28-14.17.58:230][902]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.12.28-14.17.58:231][902]PIE: Server logged in
+[2022.12.28-14.17.58:231][902]PIE: Play in editor total start time 0,144 seconds.
+[2022.12.28-14.18.00:585][142]LogNet: Browse: /Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1
+[2022.12.28-14.18.00:585][142]LogLoad: LoadMap: /Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1
+[2022.12.28-14.18.00:585][142]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.18.00:585][142]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.18.00:585][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.00:648][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.18.00:651][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.28-14.18.01:563][142]LogAudio: Display: Audio Device (ID: 12) registered with world 'GothicTemple'.
+[2022.12.28-14.18.01:563][142]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.18.01:563][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.18.01:563][142]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.18.01:564][142]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2022.12.28-14.18.01:564][142]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.18.01:594][142]LogWorld: Bringing World /Temp/Autosaves/Game/GothicTemple/Levels/UEDPIE_0_GothicTemple_Auto1.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.18.01
+[2022.12.28-14.18.01:595][142]LogWorld: Bringing up level for play took: 0.030956
+[2022.12.28-14.18.01:603][142]LogLoad: Took 1.018309 seconds to LoadMap(/Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1)
+[2022.12.28-14.18.01:656][143]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099304 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-14.18.10:273][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.18.10:273][676]LogWorld: BeginTearingDown for /Temp/Autosaves/Game/GothicTemple/Levels/UEDPIE_0_GothicTemple_Auto1
+[2022.12.28-14.18.10:274][676]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.18.10:278][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.10:290][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.18.10:300][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.10:369][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.18.10:369][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.28-14.18.10:370][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.12.28-14.18.10:373][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.18.10:386][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.28-14.18.10:427][677]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.28-14.18.15:046][823]Launching UnrealBuildTool... [D:/UE5/Ue5/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE5/Ue5/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.12.28-14.18.15:156][823]Launching UnrealBuildTool... [D:/UE5/Ue5/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="D:/UE5/Ue5/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.12.28-14.18.15:260][823]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.12.28-14.18.15:260][823]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-3RUJIAN
+[2022.12.28-14.18.15:260][823]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/wojta/Documents/GitHub/Zombor/Zombor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/wojta/Documents/GitHub/Zombor/Intermediate/TurnkeyReport_1.log" -log="C:/Users/wojta/Documents/GitHub/Zombor/Intermediate/TurnkeyLog_1.log" -project="C:/Users/wojta/Documents/GitHub/Zombor/Zombor.uproject"  -Device=Win64@DESKTOP-3RUJIAN'
+[2022.12.28-14.18.15:260][823]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE5/Ue5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/wojta/Documents/GitHub/Zombor/Zombor.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/wojta/Documents/GitHub/Zombor/Intermediate/TurnkeyReport_1.log" -log="C:/Users/wojta/Documents/GitHub/Zombor/Intermediate/TurnkeyLog_1.log" -project="C:/Users/wojta/Documents/GitHub/Zombor/Zombor.uproject"  -Device=Win64@DESKTOP-3RUJIAN" ]
+[2022.12.28-14.18.15:359][830]LogTurnkeySupport: Completed device detection: Code = 9009
+[2022.12.28-14.18.16:886][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-14.18.16:886][980]PIE: New page: PIE session: MainMenu (28 gru 2022, 16:18:16)
+[2022.12.28-14.18.16:913][980]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.18.16:914][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001115s)
+[2022.12.28-14.18.16:914][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/MainMenu.MainMenu to /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu (0.001202s)
+[2022.12.28-14.18.16:914][980]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.18.16:914][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.18.16:915][980]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.28-14.18.16:915][980]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2022.12.28-14.18.16:979][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.28-14.18.16:981][980]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-14.18.16:981][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-14.18.16:981][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-14.18.16:982][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-14.18.16:982][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-14.18.16:982][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-14.18.16:984][980]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-14.18.17:004][980]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-14.18.17:005][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-14.18.17:005][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-14.18.17:005][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-14.18.17:005][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.12.28-14.18.17:005][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.12.28-14.18.17:007][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.12.28-14.18.17:007][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.12.28-14.18.17:007][980]LogInit: FAudioDevice initialized.
+[2022.12.28-14.18.17:007][980]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2022.12.28-14.18.17:033][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.18.17:034][980]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.12.28-14.18.17:034][980]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.12.28-15.18.17
+[2022.12.28-14.18.17:034][980]LogWorld: Bringing up level for play took: 0.000291
+[2022.12.28-14.18.17:036][980]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.12.28-14.18.17:039][980]PIE: Server logged in
+[2022.12.28-14.18.17:040][980]PIE: Play in editor total start time 0,154 seconds.
+[2022.12.28-14.18.17:060][980]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.28-14.18.18:954][158]LogNet: Browse: /Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1
+[2022.12.28-14.18.18:954][158]LogLoad: LoadMap: /Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1
+[2022.12.28-14.18.18:954][158]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.18.18:954][158]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.18.18:954][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.19:056][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.18.19:059][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.28-14.18.19:921][158]LogAudio: Display: Audio Device (ID: 13) registered with world 'GothicTemple'.
+[2022.12.28-14.18.19:921][158]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.18.19:921][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.18.19:921][158]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-14.18.19:922][158]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.12.28-14.18.19:922][158]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-14.18.19:953][158]LogWorld: Bringing World /Temp/Autosaves/Game/GothicTemple/Levels/UEDPIE_0_GothicTemple_Auto1.GothicTemple up for play (max tick rate 0) at 2022.12.28-15.18.19
+[2022.12.28-14.18.19:953][158]LogWorld: Bringing up level for play took: 0.031294
+[2022.12.28-14.18.19:961][158]LogLoad: Took 1.006731 seconds to LoadMap(/Temp/Autosaves/Game/GothicTemple/Levels/GothicTemple_Auto1)
+[2022.12.28-14.18.20:008][159]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099304 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-14.18.23:807][419]LogBlueprintUserMessages: [BP_Zombie_C_1] 80.0
+[2022.12.28-14.18.24:076][438]LogBlueprintUserMessages: [BP_Zombie_C_1] 60.0
+[2022.12.28-14.18.34:494][275]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.28-14.18.34:494][275]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.28-14.18.35:835][386]LogNet: Browse: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.18.35:835][386]LogLoad: LoadMap: /Game/_Main/Maps/MainMenu
+[2022.12.28-14.18.35:835][386]LogWorld: BeginTearingDown for /Temp/Autosaves/Game/GothicTemple/Levels/UEDPIE_0_GothicTemple_Auto1
+[2022.12.28-14.18.35:836][386]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.18.35:841][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.35:931][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.18.35:945][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.12.28-14.18.35:951][386]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.18.35:952][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001067s)
+[2022.12.28-14.18.35:952][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/MainMenu.MainMenu to /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu (0.001266s)
+[2022.12.28-14.18.35:952][386]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2022.12.28-14.18.35:952][386]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-14.18.35:952][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-14.18.35:952][386]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.28-14.18.35:953][386]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2022.12.28-14.18.35:953][386]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.12.28-14.18.35:953][386]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.12.28-15.18.35
+[2022.12.28-14.18.35:953][386]LogWorld: Bringing up level for play took: 0.000236
+[2022.12.28-14.18.35:953][386]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.28-14.18.35:954][386]LogLoad: Took 0.118905 seconds to LoadMap(/Game/_Main/Maps/UEDPIE_0_MainMenu)
+[2022.12.28-14.18.38:712][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-14.18.38:712][664]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.28-14.18.38:712][664]LogSlate: Window 'Zombor Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.28-14.18.38:731][664]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-14.18.38:731][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.38:741][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-14.18.38:750][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-14.18.38:817][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-14.18.38:817][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.28-14.18.38:819][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.12.28-14.18.38:824][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.28-14.18.38:850][665]LogPlayLevel: Display: Destroying online subsystem :Context_29
