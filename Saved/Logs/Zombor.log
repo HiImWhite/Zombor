@@ -1465,3 +1465,421 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.28-11.36.30:136][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2022.12.28-11.36.30:185][332]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2022.12.28-11.55.21:391][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.28-11.57.44:653][721]LogSlate: Took 0.004843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.28-11.58.00:766][403]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-11.58.00:902][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.28-11.58.01:481][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-11.58.01:522][436]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-11.58.01:523][436]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterDF4B9B6F45743F89B0EA57AF0BA854BA.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-11.58.01:536][436]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-11.58.01:536][436]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-11.58.18:814][292]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-11.58.18:946][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.28-11.58.19:611][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-11.58.19:653][333]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-11.58.19:654][333]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter89C8657745DCA2FF11A0A0BC4233E0A1.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-11.58.19:666][333]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-11.58.19:666][333]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-11.58.30:480][470]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-11.58.30:608][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.12.28-11.58.31:221][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-11.58.31:263][507]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-11.58.31:264][507]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterD0F080124C47ED5A7D89F182B23DD4A4.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-11.58.31:277][507]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-11.58.31:277][507]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-11.58.50:876][661]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-11.58.51:011][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.28-11.58.51:660][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-11.58.51:702][700]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-11.58.51:702][700]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterB6D883604ECDDCF1EDF726BE3F9C6F03.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-11.58.51:715][700]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-11.58.51:715][700]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.00.33:536][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.28-12.00.33:538][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GothicTemple/Levels/GothicTemple' took 0.052
+[2022.12.28-12.00.33:539][232]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.12.28-12.00.33:557][232]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.12.28-12.00.33:557][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Blueprints/BP_FirstPersonCharacter]
+[2022.12.28-12.00.33:602][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Blueprints/BP_FirstPersonCharacter_Auto2
+[2022.12.28-12.00.33:602][232]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter_Auto2F780D44343C56D717CF0BA963D5C26EB.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Autosaves/Game/_Main/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2022.12.28-12.00.33:603][232]LogFileHelpers: Auto-saving content packages took 0.065
+[2022.12.28-12.01.07:001][967]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.01.07:125][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.28-12.01.08:105][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.01.08:149][ 38]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.01.08:149][ 38]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter77DB127F4284B371F4E84A9F015BA16F.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.01.08:162][ 38]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.01.08:162][ 38]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.01.22:405][609]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.01.22:533][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.28-12.01.23:224][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.01.23:267][660]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.01.23:268][660]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter57C7F4AF4D56D6179A72C1831239B0BF.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.01.23:280][660]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.01.23:280][660]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.01.29:512][387]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-12.01.29:512][387]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-12.05.30:904][960]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-12.05.31:020][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.28-12.05.31:877][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-12.05.31:907][ 41]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-12.05.31:908][ 41]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_WB7F1E20748EDCBCDD2A4FFB80A874786.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-12.05.31:921][ 41]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-12.05.31:921][ 41]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-12.05.33:209][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-12.05.33:216][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-12.05.33:216][150]PIE: New page: PIE session: GothicTemple (28 gru 2022, 14:05:33)
+[2022.12.28-12.05.33:245][150]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.05.34:056][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.811523s)
+[2022.12.28-12.05.34:056][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.811635s)
+[2022.12.28-12.05.34:056][150]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-12.05.34:056][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.05.34:057][150]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-12.05.34:057][150]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2022.12.28-12.05.34:117][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.28-12.05.34:121][150]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-12.05.34:121][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-12.05.34:121][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-12.05.34:122][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-12.05.34:122][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-12.05.34:122][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-12.05.34:123][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-12.05.34:144][150]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-12.05.34:144][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-12.05.34:144][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-12.05.34:144][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-12.05.34:145][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.12.28-12.05.34:145][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.12.28-12.05.34:146][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.12.28-12.05.34:146][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.12.28-12.05.34:146][150]LogInit: FAudioDevice initialized.
+[2022.12.28-12.05.34:146][150]LogAudio: Display: Audio Device (ID: 8) registered with world 'GothicTemple'.
+[2022.12.28-12.05.34:160][150]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-12.05.34:188][150]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-13.05.34
+[2022.12.28-12.05.34:189][150]LogWorld: Bringing up level for play took: 0.028397
+[2022.12.28-12.05.34:191][150]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.12.28-12.05.34:197][150]PIE: Server logged in
+[2022.12.28-12.05.34:198][150]PIE: Play in editor total start time 0,983 seconds.
+[2022.12.28-12.05.38:747][509]LogBlueprintUserMessages: [BP_Zombie_C_2] 80.0
+[2022.12.28-12.05.39:126][544]LogBlueprintUserMessages: [BP_Zombie_C_2] 60.0
+[2022.12.28-12.05.39:600][587]LogBlueprintUserMessages: [BP_Zombie_C_3] 80.0
+[2022.12.28-12.05.39:799][605]LogBlueprintUserMessages: [BP_Zombie_C_3] 60.0
+[2022.12.28-12.05.39:978][621]LogBlueprintUserMessages: [BP_Zombie_C_3] 10.0
+[2022.12.28-12.05.40:598][679]LogBlueprintUserMessages: [BP_Zombie_C_2] 40.0
+[2022.12.28-12.05.41:197][733]LogBlueprintUserMessages: [BP_Zombie_C_2] 20.0
+[2022.12.28-12.05.47:095][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.05.47:095][183]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.05.47:095][183]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-12.05.47:099][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.05.47:111][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-12.05.47:119][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.05.47:164][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.05.47:169][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.28-12.05.47:170][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.28-12.05.47:184][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.28-12.05.47:234][184]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.28-12.06.54:480][394]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-12.06.54:575][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.28-12.06.55:206][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-12.06.55:242][457]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-12.06.55:242][457]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_WA20B1E2746B656FEC3105A8EA6D7A7AD.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-12.06.55:257][457]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-12.06.55:257][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-12.06.56:871][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-12.06.56:871][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.28-12.07.31:501][580]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.28-12.07.31:594][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.28-12.07.32:081][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.28-12.07.32:115][628]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.28-12.07.32:116][628]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/MainWidget_W3658D32B4D116B1672A29F8DF96A7870.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.28-12.07.32:128][628]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.28-12.07.32:128][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.28-12.07.34:671][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-12.07.34:678][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-12.07.34:678][887]PIE: New page: PIE session: GothicTemple (28 gru 2022, 14:07:34)
+[2022.12.28-12.07.34:678][887]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.07.35:485][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.806602s)
+[2022.12.28-12.07.35:485][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.806690s)
+[2022.12.28-12.07.35:485][887]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-12.07.35:485][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.07.35:485][887]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-12.07.35:486][887]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2022.12.28-12.07.35:537][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.12.28-12.07.35:539][887]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-12.07.35:539][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-12.07.35:539][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-12.07.35:539][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-12.07.35:539][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-12.07.35:539][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-12.07.35:541][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-12.07.35:562][887]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-12.07.35:562][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-12.07.35:562][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-12.07.35:562][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-12.07.35:563][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.12.28-12.07.35:563][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.12.28-12.07.35:564][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.12.28-12.07.35:564][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.12.28-12.07.35:564][887]LogInit: FAudioDevice initialized.
+[2022.12.28-12.07.35:564][887]LogAudio: Display: Audio Device (ID: 9) registered with world 'GothicTemple'.
+[2022.12.28-12.07.35:575][887]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-12.07.35:606][887]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-13.07.35
+[2022.12.28-12.07.35:607][887]LogWorld: Bringing up level for play took: 0.031063
+[2022.12.28-12.07.35:609][887]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.12.28-12.07.35:616][887]PIE: Server logged in
+[2022.12.28-12.07.35:616][887]PIE: Play in editor total start time 0,939 seconds.
+[2022.12.28-12.07.35:649][888]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_3', movement 'Walking'
+[2022.12.28-12.07.38:825][111]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.28-12.07.39:218][138]LogBlueprintUserMessages: [BP_Zombie_C_0] 30.0
+[2022.12.28-12.07.39:414][152]LogBlueprintUserMessages: [BP_Zombie_C_0] -20.0
+[2022.12.28-12.07.40:289][214]LogBlueprintUserMessages: [BP_Zombie_C_1] 80.0
+[2022.12.28-12.07.40:498][229]LogBlueprintUserMessages: [BP_Zombie_C_1] 60.0
+[2022.12.28-12.07.40:683][242]LogBlueprintUserMessages: [BP_Zombie_C_1] 10.0
+[2022.12.28-12.07.41:703][311]LogBlueprintUserMessages: [BP_Zombie_C_1] -10.0
+[2022.12.28-12.07.52:911][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.07.52:912][ 24]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.07.52:912][ 24]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-12.07.52:916][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.07.52:931][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-12.07.52:939][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.07.52:992][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-12.07.52:992][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.28-12.07.52:994][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.28-12.07.52:997][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.07.53:010][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.28-12.07.53:050][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.12.28-12.10.50:168][855]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.10.50:301][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.28-12.10.50:875][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.10.50:921][891]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.10.50:922][891]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterDC3AC835423B60E1DFFCF9AC66B87B98.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.10.50:935][891]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.10.50:935][891]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.10.54:002][244]LogDerivedDataCache: C:/Users/wojta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.643 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.28-12.15.37:652][842]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.15.37:793][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.28-12.15.38:394][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.15.38:446][866]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.15.38:447][866]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterCA9192644D71E4C1A45DD38491CE151B.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.15.38:459][866]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.15.38:459][866]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.15.52:254][683]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.28-12.15.52:254][683]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.28-12.15.54:237][797]LogContentBrowser: Deferred new asset file creation: Reload_Montage
+[2022.12.28-12.15.54:244][797]LogContentBrowser: Creating deferred item: Reload_Montage
+[2022.12.28-12.15.54:256][798]LogContentBrowser: Renaming the item being created (Deferred Item: Reload_Montage).
+[2022.12.28-12.15.55:251][861]LogContentBrowser: Attempting asset rename: Reload_Montage -> Reload_Montage
+[2022.12.28-12.15.55:253][861]LogContentBrowser: End creating deferred item Reload_Montage
+[2022.12.28-12.15.57:416][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.28-12.15.58:736][986]LogSavePackage: Moving output files for package: /Game/GothicTemple/Levels/GothicTemple
+[2022.12.28-12.15.58:737][986]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/GothicTempleC892CC634E5A17C04F6E4CBBC61181AE.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/GothicTemple/Levels/GothicTemple.umap'
+[2022.12.28-12.15.58:760][986]LogFileHelpers: No new changes to save!
+[2022.12.28-12.15.58:773][986]AssetCheck: New page: Asset Save: GothicTemple
+[2022.12.28-12.15.58:774][986]LogContentValidation: Display: Validating World /Game/GothicTemple/Levels/GothicTemple.GothicTemple
+[2022.12.28-12.16.13:745][573]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.28-12.16.22:568][518]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.16.22:701][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.28-12.16.24:027][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.16.24:078][645]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.16.24:079][645]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterF3DA751143CD34963BCFE0B0A18E43E7.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.16.24:092][645]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.16.24:092][645]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.16.48:120][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadMagEject01...
+[2022.12.28-12.16.48:120][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject01.Pistol_ReloadMagEject01 will be modified from 80 to 80.
+[2022.12.28-12.16.48:121][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 20128 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject01.Pistol_ReloadMagEject01.
+[2022.12.28-12.16.48:121][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject01.Pistol_ReloadMagEject01: 262144
+[2022.12.28-12.16.48:122][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadMagEject02...
+[2022.12.28-12.16.48:122][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject02.Pistol_ReloadMagEject02 will be modified from 80 to 80.
+[2022.12.28-12.16.48:123][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 24948 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject02.Pistol_ReloadMagEject02.
+[2022.12.28-12.16.48:124][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagEject02.Pistol_ReloadMagEject02: 262144
+[2022.12.28-12.16.48:124][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadMagInsert01...
+[2022.12.28-12.16.48:124][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert01.Pistol_ReloadMagInsert01 will be modified from 80 to 80.
+[2022.12.28-12.16.48:125][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 21160 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert01.Pistol_ReloadMagInsert01.
+[2022.12.28-12.16.48:126][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert01.Pistol_ReloadMagInsert01: 262144
+[2022.12.28-12.16.48:126][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadMagInsert02...
+[2022.12.28-12.16.48:126][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert02.Pistol_ReloadMagInsert02 will be modified from 80 to 80.
+[2022.12.28-12.16.48:127][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 20056 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert02.Pistol_ReloadMagInsert02.
+[2022.12.28-12.16.48:127][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadMagInsert02.Pistol_ReloadMagInsert02: 262144
+[2022.12.28-12.16.48:128][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadSlideRack01...
+[2022.12.28-12.16.48:128][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack01.Pistol_ReloadSlideRack01 will be modified from 80 to 80.
+[2022.12.28-12.16.48:130][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32390 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack01.Pistol_ReloadSlideRack01.
+[2022.12.28-12.16.48:130][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack01.Pistol_ReloadSlideRack01: 262144
+[2022.12.28-12.16.48:130][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadSlideRack02...
+[2022.12.28-12.16.48:130][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack02.Pistol_ReloadSlideRack02 will be modified from 80 to 80.
+[2022.12.28-12.16.48:132][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 30076 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack02.Pistol_ReloadSlideRack02.
+[2022.12.28-12.16.48:132][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack02.Pistol_ReloadSlideRack02: 262144
+[2022.12.28-12.16.48:133][169]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Pistol_ReloadSlideRack03...
+[2022.12.28-12.16.48:133][169]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack03.Pistol_ReloadSlideRack03 will be modified from 80 to 80.
+[2022.12.28-12.16.48:135][169]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32282 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack03.Pistol_ReloadSlideRack03.
+[2022.12.28-12.16.48:135][169]LogAudio: Display: Chunk size for SoundWave /Game/MilitaryWeapSilver/Sound/Pistol/Wavs/Pistol_ReloadSlideRack03.Pistol_ReloadSlideRack03: 262144
+[2022.12.28-12.16.48:136][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_224' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:136][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_25' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:136][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_26' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:136][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_29' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_30' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_31' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_32' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_33' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_34' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_35' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_36' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:151][169]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.28-12.16.48:154][169]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MilitaryWeapSilver/Weapons/Animations/Reload_Pistol_W.Reload_Pistol_W
+[2022.12.28-12.16.48:154][169]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MilitaryWeapSilver/Weapons/Animations/Reload_Pistol_W.Reload_Pistol_W
+[2022.12.28-12.16.48:198][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.16.48:256][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.28-12.16.48:428][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.16.48:854][169]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.28-12.16.48:861][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.16.48:878][169]LogViewport: Scene viewport resized to 1666x805, mode Windowed.
+[2022.12.28-12.16.48:907][169]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.12.28-12.17.05:193][803]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.28-12.17.41:306][208]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.17.41:483][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.12.28-12.17.42:091][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.17.42:142][247]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.17.42:143][247]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacterA8AC05064E8FAC4AAEF2A3B78961E3C3.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.17.42:158][247]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.17.42:158][247]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.17.49:167][ 19]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-12.17.49:173][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-12.17.49:174][ 19]PIE: New page: PIE session: GothicTemple (28 gru 2022, 14:17:49)
+[2022.12.28-12.17.49:174][ 19]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.17.49:987][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.813277s)
+[2022.12.28-12.17.49:987][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.813360s)
+[2022.12.28-12.17.49:987][ 19]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-12.17.49:987][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.17.49:987][ 19]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-12.17.49:988][ 19]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2022.12.28-12.17.50:053][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.12.28-12.17.50:058][ 19]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-12.17.50:058][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-12.17.50:058][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-12.17.50:058][ 19]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-12.17.50:058][ 19]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-12.17.50:058][ 19]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-12.17.50:060][ 19]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.12.28-12.17.50:082][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.12.28-12.17.50:084][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.12.28-12.17.50:084][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.12.28-12.17.50:084][ 19]LogInit: FAudioDevice initialized.
+[2022.12.28-12.17.50:084][ 19]LogAudio: Display: Audio Device (ID: 10) registered with world 'GothicTemple'.
+[2022.12.28-12.17.50:093][ 19]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-12.17.50:123][ 19]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-13.17.50
+[2022.12.28-12.17.50:123][ 19]LogWorld: Bringing up level for play took: 0.029827
+[2022.12.28-12.17.50:125][ 19]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.12.28-12.17.50:132][ 19]PIE: Server logged in
+[2022.12.28-12.17.50:133][ 19]PIE: Play in editor total start time 0,959 seconds.
+[2022.12.28-12.18.10:838][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.18.10:838][451]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.18.10:839][451]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-12.18.10:843][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.18.10:854][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-12.18.10:863][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.18.10:917][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.18.10:921][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.28-12.18.10:922][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.28-12.18.10:936][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.12.28-12.18.10:993][452]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.28-12.18.26:649][144]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.28-12.18.26:786][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.28-12.18.27:603][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.28-12.18.27:654][207]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.28-12.18.27:655][207]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/BP_FirstPersonCharacter187E8FB04946449074B791AF57B03EBB.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.28-12.18.27:670][207]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.28-12.18.27:670][207]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.28-12.18.38:817][482]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.28-12.18.38:824][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.28-12.18.38:824][482]PIE: New page: PIE session: GothicTemple (28 gru 2022, 14:18:38)
+[2022.12.28-12.18.38:824][482]LogPlayLevel: Creating play world package: /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.18.39:630][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.806190s)
+[2022.12.28-12.18.39:630][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GothicTemple/Levels/GothicTemple.GothicTemple to /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple (0.806276s)
+[2022.12.28-12.18.39:630][482]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.28-12.18.39:630][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.28-12.18.39:631][482]LogAIModule: Creating AISystem for world GothicTemple
+[2022.12.28-12.18.39:631][482]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2022.12.28-12.18.39:698][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.28-12.18.39:705][482]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.28-12.18.39:705][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.28-12.18.39:705][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.28-12.18.39:706][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.28-12.18.39:706][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.28-12.18.39:706][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.28-12.18.39:708][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.28-12.18.39:729][482]LogAudioMixer: Display: Using Audio Hardware Device VG270U P (NVIDIA High Definition Audio)
+[2022.12.28-12.18.39:729][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.28-12.18.39:729][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.28-12.18.39:729][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.28-12.18.39:730][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.28-12.18.39:730][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.28-12.18.39:731][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.28-12.18.39:731][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.28-12.18.39:731][482]LogInit: FAudioDevice initialized.
+[2022.12.28-12.18.39:731][482]LogAudio: Display: Audio Device (ID: 11) registered with world 'GothicTemple'.
+[2022.12.28-12.18.39:743][482]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.28-12.18.39:771][482]LogWorld: Bringing World /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple.GothicTemple up for play (max tick rate 0) at 2022.12.28-13.18.39
+[2022.12.28-12.18.39:772][482]LogWorld: Bringing up level for play took: 0.028767
+[2022.12.28-12.18.39:774][482]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.12.28-12.18.39:780][482]PIE: Server logged in
+[2022.12.28-12.18.39:781][482]PIE: Play in editor total start time 0,958 seconds.
+[2022.12.28-12.18.51:945][284]LogBlueprintUserMessages: [BP_Zombie_C_1] 80.0
+[2022.12.28-12.19.04:335][ 23]LogBlueprintUserMessages: [BP_Zombie_C_1] 60.0
+[2022.12.28-12.19.04:702][ 47]LogBlueprintUserMessages: [BP_Zombie_C_1] 10.0
+[2022.12.28-12.19.04:931][ 63]LogBlueprintUserMessages: [BP_Zombie_C_1] -10.0
+[2022.12.28-12.19.05:788][116]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.28-12.19.06:264][145]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.28-12.19.10:918][482]LogBlueprintUserMessages: [BP_Zombie_C_2] 80.0
+[2022.12.28-12.19.17:107][906]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.28-12.19.17:350][923]LogBlueprintUserMessages: [BP_Zombie_C_3] 30.0
+[2022.12.28-12.19.17:533][935]LogBlueprintUserMessages: [BP_Zombie_C_3] 10.0
+[2022.12.28-12.19.17:725][948]LogBlueprintUserMessages: [BP_Zombie_C_3] -10.0
+[2022.12.28-12.19.17:901][960]LogBlueprintUserMessages: [BP_Zombie_C_2] 60.0
+[2022.12.28-12.19.18:116][974]LogBlueprintUserMessages: [BP_Zombie_C_2] 10.0
+[2022.12.28-12.19.39:676][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.19.39:676][578]LogWorld: BeginTearingDown for /Game/GothicTemple/Levels/UEDPIE_0_GothicTemple
+[2022.12.28-12.19.39:677][578]LogWorld: UWorld::CleanupWorld for GothicTemple, bSessionEnded=true, bCleanupResources=true
+[2022.12.28-12.19.39:681][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.19.39:695][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.28-12.19.39:704][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.28-12.19.39:758][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.28-12.19.39:759][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.28-12.19.39:760][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.28-12.19.39:763][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.28-12.19.39:775][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.28-12.19.39:829][579]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.12.28-12.19.48:413][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.28-12.19.48:454][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/Animations/Reload_Montage" FILE="C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Reload_Montage.uasset" SILENT=true
+[2022.12.28-12.19.48:456][ 53]LogSavePackage: Moving output files for package: /Game/_Main/Character/Animations/Reload_Montage
+[2022.12.28-12.19.48:456][ 53]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/Zombor/Saved/Reload_MontageF4FE4CF84C1568B86FFE628D1ADB7180.tmp' to 'C:/Users/wojta/Documents/GitHub/Zombor/Content/_Main/Character/Animations/Reload_Montage.uasset'
+[2022.12.28-12.19.48:483][ 53]AssetCheck: New page: Asset Save: Reload_Montage
+[2022.12.28-12.19.48:483][ 53]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Character/Animations/Reload_Montage.Reload_Montage
