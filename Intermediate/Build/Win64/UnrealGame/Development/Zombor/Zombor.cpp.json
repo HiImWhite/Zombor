@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\wojta\\documents\\github\\zombor\\intermediate\\source\\zombor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wojta\\documents\\github\\zombor\\intermediate\\build\\win64\\zombor\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\wojta\\documents\\github\\zombor\\intermediate\\build\\win64\\unrealgame\\development\\zombor\\definitions.zombor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
